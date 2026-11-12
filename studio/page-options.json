@@ -1,0 +1,222 @@
+[
+  {
+    "path": "/",
+    "title": "Homepage",
+    "id": "page--home"
+  },
+  {
+    "path": "/citizenship/grenada",
+    "title": "citizenship / grenada",
+    "id": "page--citizenship--grenada"
+  },
+  {
+    "path": "/citizenship/dominica",
+    "title": "citizenship / dominica",
+    "id": "page--citizenship--dominica"
+  },
+  {
+    "path": "/about-us",
+    "title": "about us",
+    "id": "page--about-us"
+  },
+  {
+    "path": "/canada-migration",
+    "title": "canada migration",
+    "id": "page--canada-migration"
+  },
+  {
+    "path": "/australia-migration",
+    "title": "australia migration",
+    "id": "page--australia-migration"
+  },
+  {
+    "path": "/new-zealand-migration",
+    "title": "new zealand migration",
+    "id": "page--new-zealand-migration"
+  },
+  {
+    "path": "/canada-pr",
+    "title": "canada pr",
+    "id": "page--canada-pr"
+  },
+  {
+    "path": "/australia-pr",
+    "title": "australia pr",
+    "id": "page--australia-pr"
+  },
+  {
+    "path": "/new-zealand-pr",
+    "title": "new zealand pr",
+    "id": "page--new-zealand-pr"
+  },
+  {
+    "path": "/canada-express-entry",
+    "title": "canada express entry",
+    "id": "page--canada-express-entry"
+  },
+  {
+    "path": "/canada-study-visa",
+    "title": "canada study visa",
+    "id": "page--canada-study-visa"
+  },
+  {
+    "path": "/australia-study-visa",
+    "title": "australia study visa",
+    "id": "page--australia-study-visa"
+  },
+  {
+    "path": "/visit-visa/usa",
+    "title": "visit visa / usa",
+    "id": "page--visit-visa--usa"
+  },
+  {
+    "path": "/visit-visa/uk",
+    "title": "visit visa / uk",
+    "id": "page--visit-visa--uk"
+  },
+  {
+    "path": "/visit-visa/canada",
+    "title": "visit visa / canada",
+    "id": "page--visit-visa--canada"
+  },
+  {
+    "path": "/visit-visa/australia",
+    "title": "visit visa / australia",
+    "id": "page--visit-visa--australia"
+  },
+  {
+    "path": "/visit-visa/new-zealand",
+    "title": "visit visa / new zealand",
+    "id": "page--visit-visa--new-zealand"
+  },
+  {
+    "path": "/visit-visa/ireland",
+    "title": "visit visa / ireland",
+    "id": "page--visit-visa--ireland"
+  },
+  {
+    "path": "/visit-visa/asia-middle-east",
+    "title": "visit visa / asia middle east",
+    "id": "page--visit-visa--asia-middle-east"
+  },
+  {
+    "path": "/visit-visa/schengen",
+    "title": "visit visa / schengen",
+    "id": "page--visit-visa--schengen"
+  },
+  {
+    "path": "/portugal-migration",
+    "title": "portugal migration",
+    "id": "page--portugal-migration"
+  },
+  {
+    "path": "/portugal-d2-visa",
+    "title": "portugal d2 visa",
+    "id": "page--portugal-d2-visa"
+  },
+  {
+    "path": "/portugal-d7-visa",
+    "title": "portugal d7 visa",
+    "id": "page--portugal-d7-visa"
+  },
+  {
+    "path": "/portugal-d8-visa",
+    "title": "portugal d8 visa",
+    "id": "page--portugal-d8-visa"
+  },
+  {
+    "path": "/portugal-golden-visa",
+    "title": "portugal golden visa",
+    "id": "page--portugal-golden-visa"
+  },
+  {
+    "path": "/germany-opportunity-card",
+    "title": "germany opportunity card",
+    "id": "page--germany-opportunity-card"
+  },
+  {
+    "path": "/uk-study-visa",
+    "title": "uk study visa",
+    "id": "page--uk-study-visa"
+  },
+  {
+    "path": "/georgia-study-visa",
+    "title": "georgia study visa",
+    "id": "page--georgia-study-visa"
+  },
+  {
+    "path": "/citizenship/st-kitts-nevis",
+    "title": "citizenship / st kitts nevis",
+    "id": "page--citizenship--st-kitts-nevis"
+  },
+  {
+    "path": "/citizenship/st-lucia",
+    "title": "citizenship / st lucia",
+    "id": "page--citizenship--st-lucia"
+  },
+  {
+    "path": "/citizenship/antigua-barbuda",
+    "title": "citizenship / antigua barbuda",
+    "id": "page--citizenship--antigua-barbuda"
+  },
+  {
+    "path": "/contact-us",
+    "title": "contact us",
+    "id": "page--contact-us"
+  },
+  {
+    "path": "/success-stories",
+    "title": "success stories",
+    "id": "page--success-stories"
+  },
+  {
+    "path": "/visa-gallery",
+    "title": "visa gallery",
+    "id": "page--visa-gallery"
+  },
+  {
+    "path": "/blogs",
+    "title": "blogs",
+    "id": "page--blogs"
+  },
+  {
+    "path": "/check-eligibility",
+    "title": "check eligibility",
+    "id": "page--check-eligibility"
+  },
+  {
+    "path": "/privacy-policy",
+    "title": "privacy policy",
+    "id": "page--privacy-policy"
+  },
+  {
+    "path": "/cookie-policy",
+    "title": "cookie policy",
+    "id": "page--cookie-policy"
+  },
+  {
+    "path": "/terms-of-service",
+    "title": "terms of service",
+    "id": "page--terms-of-service"
+  },
+  {
+    "path": "/blogs/canada-vs-australia-vs-new-zealand-vs-portugal",
+    "title": "Blog: Canada vs Australia vs New Zealand vs Portugal: Which country is better for immigration?",
+    "id": "page--blogs--canada-vs-australia-vs-new-zealand-vs-portugal"
+  },
+  {
+    "path": "/blogs/essential-documents-australia",
+    "title": "Blog: 10 Essential documents needed for your Australian journey",
+    "id": "page--blogs--essential-documents-australia"
+  },
+  {
+    "path": "/blogs/complete-immigration-checklist",
+    "title": "Blog: Complete immigration checklist: Documents needed before you moving abroad",
+    "id": "page--blogs--complete-immigration-checklist"
+  },
+  {
+    "path": "/blogs/skilled-immigration-2026",
+    "title": "Blog: Skilled immigration in 2026: How to find the right country and visa pathway",
+    "id": "page--blogs--skilled-immigration-2026"
+  }
+]

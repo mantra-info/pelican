@@ -1,0 +1,3313 @@
+[
+  {
+    "_id": "siteContent",
+    "_type": "siteContent",
+    "manageApprovals": true,
+    "manageBlogs": true,
+    "manageHomeTestimonials": true
+  },
+  {
+    "_id": "video--wLAOihHHS94",
+    "_type": "video",
+    "title": "Clarisse’s journey to Canada",
+    "source": "youtube",
+    "youtubeId": "wLAOihHHS94",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941-webp"
+      },
+      "alt": "Clarisse’s journey to Canada"
+    }
+  },
+  {
+    "_id": "testimonial--wLAOihHHS94",
+    "_type": "testimonial",
+    "name": "Clarisse’s journey to Canada",
+    "kind": "video",
+    "video": {
+      "_type": "reference",
+      "_ref": "video--wLAOihHHS94"
+    },
+    "showOnHome": true,
+    "sortOrder": 0
+  },
+  {
+    "_id": "video--fGyqV3fEC3w",
+    "_type": "video",
+    "title": "Sigrid and Ryan’s work permit",
+    "source": "youtube",
+    "youtubeId": "fGyqV3fEC3w",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941-webp"
+      },
+      "alt": "Sigrid and Ryan’s work permit"
+    }
+  },
+  {
+    "_id": "testimonial--fGyqV3fEC3w",
+    "_type": "testimonial",
+    "name": "Sigrid and Ryan’s work permit",
+    "kind": "video",
+    "video": {
+      "_type": "reference",
+      "_ref": "video--fGyqV3fEC3w"
+    },
+    "showOnHome": true,
+    "sortOrder": 1
+  },
+  {
+    "_id": "video--y05zoJ_padg",
+    "_type": "video",
+    "title": "Charity and King’s experience",
+    "source": "youtube",
+    "youtubeId": "y05zoJ_padg",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941-webp"
+      },
+      "alt": "Charity and King’s experience"
+    }
+  },
+  {
+    "_id": "testimonial--y05zoJ_padg",
+    "_type": "testimonial",
+    "name": "Charity and King’s experience",
+    "kind": "video",
+    "video": {
+      "_type": "reference",
+      "_ref": "video--y05zoJ_padg"
+    },
+    "showOnHome": true,
+    "sortOrder": 2
+  },
+  {
+    "_id": "video--h8zQ0-EQEjE",
+    "_type": "video",
+    "title": "Irene and Aaron’s journey",
+    "source": "youtube",
+    "youtubeId": "h8zQ0-EQEjE",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941-webp"
+      },
+      "alt": "Irene and Aaron’s journey"
+    }
+  },
+  {
+    "_id": "testimonial--h8zQ0-EQEjE",
+    "_type": "testimonial",
+    "name": "Irene and Aaron’s journey",
+    "kind": "video",
+    "video": {
+      "_type": "reference",
+      "_ref": "video--h8zQ0-EQEjE"
+    },
+    "showOnHome": true,
+    "sortOrder": 3
+  },
+  {
+    "_id": "video--QU6m636318A",
+    "_type": "video",
+    "title": "Jacqueline and family",
+    "source": "youtube",
+    "youtubeId": "QU6m636318A",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941-webp"
+      },
+      "alt": "Jacqueline and family"
+    }
+  },
+  {
+    "_id": "testimonial--QU6m636318A",
+    "_type": "testimonial",
+    "name": "Jacqueline and family",
+    "kind": "video",
+    "video": {
+      "_type": "reference",
+      "_ref": "video--QU6m636318A"
+    },
+    "showOnHome": true,
+    "sortOrder": 4
+  },
+  {
+    "_id": "video--OBMzGCHJDs4",
+    "_type": "video",
+    "title": "Ankit’s Canadian journey",
+    "source": "youtube",
+    "youtubeId": "OBMzGCHJDs4",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941-webp"
+      },
+      "alt": "Ankit’s Canadian journey"
+    }
+  },
+  {
+    "_id": "testimonial--OBMzGCHJDs4",
+    "_type": "testimonial",
+    "name": "Ankit’s Canadian journey",
+    "kind": "video",
+    "video": {
+      "_type": "reference",
+      "_ref": "video--OBMzGCHJDs4"
+    },
+    "showOnHome": true,
+    "sortOrder": 5
+  },
+  {
+    "_id": "review--0",
+    "_type": "testimonial",
+    "name": "Ranjan Mathew",
+    "kind": "text",
+    "quote": "“I found Pelican Migration Consultants very impressive and I will definitely recommend pelican migration to others.”",
+    "rating": 4.5,
+    "sortOrder": 0
+  },
+  {
+    "_id": "review--1",
+    "_type": "testimonial",
+    "name": "Anita Kapoor",
+    "kind": "text",
+    "quote": "“The team was incredibly helpful and made the entire migration process smooth and stress-free.”",
+    "rating": 4.8,
+    "sortOrder": 1
+  },
+  {
+    "_id": "review--2",
+    "_type": "testimonial",
+    "name": "Michael Tan",
+    "kind": "text",
+    "quote": "“Professional service with clear communication throughout. Highly recommend Pelican Migration.”",
+    "rating": 4.7,
+    "sortOrder": 2
+  },
+  {
+    "_id": "review--3",
+    "_type": "testimonial",
+    "name": "Sofia Hernandez",
+    "kind": "text",
+    "quote": "“Expert advice and personalized attention helped me achieve my migration goals quickly.”",
+    "rating": 4.9,
+    "sortOrder": 3
+  },
+  {
+    "_id": "review--4",
+    "_type": "testimonial",
+    "name": "James Wu",
+    "kind": "text",
+    "quote": "“Reliable and efficient consultants who genuinely care about their clients' success.”",
+    "rating": 4.6,
+    "sortOrder": 4
+  },
+  {
+    "_id": "visa-approval--canada",
+    "_type": "visaApproval",
+    "title": "Canada visa approval",
+    "country": "Canada",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-f573951307e716fb7c56417bc2871f1ae83e1d1e-1080x1440-webp"
+      },
+      "alt": "Canada visa approval"
+    },
+    "showOnHome": true,
+    "sortOrder": 0
+  },
+  {
+    "_id": "visa-approval--australia",
+    "_type": "visaApproval",
+    "title": "Australia visa approval",
+    "country": "Australia",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-6d5c6ff06ef860bcb371c4f8904f275782d995de-1080x1440-webp"
+      },
+      "alt": "Australia visa approval"
+    },
+    "showOnHome": true,
+    "sortOrder": 1
+  },
+  {
+    "_id": "blog--canada-vs-australia-vs-new-zealand-vs-portugal",
+    "_type": "blogPost",
+    "title": "Canada vs Australia vs New Zealand vs Portugal: Which country is better for immigration?",
+    "slug": {
+      "_type": "slug",
+      "current": "canada-vs-australia-vs-new-zealand-vs-portugal"
+    },
+    "publishedAt": "2026-10-18T18:30:00.000Z",
+    "coverImage": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-aa8a53c55d1ab10506d41c103240695f58845f91-1448x1086-webp"
+      },
+      "alt": "Canada vs Australia vs New Zealand vs Portugal: Which country is better for immigration?"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "_key": "p-0-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-0-0",
+            "text": "Choosing a country to immigrate to is rarely as simple as comparing visa fees or looking at a list of popular destinations. The right choice can depend on your profession, age, qualifications, work experience, family situation, income, language ability, and even the kind of lifestyle you want after moving.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-0-1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-1-0",
+            "text": "For many international applicants, Canada vs Australia immigration is one of the most common comparisons. New Zealand is also attracting skilled workers through its residence pathways, while Portugal offers several residence routes connected to employment, highly qualified work, entrepreneurship, and remote work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-0-2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-2-0",
+            "text": "So, which one is the best country for immigration?",
+            "marks": [
+              "strong"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-0-3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-3-0",
+            "text": "There is no single answer that applies to everyone. Each country has different immigration structures and eligibility requirements, and the same applicant may have very different options depending on their profile.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-0-4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-4-0",
+            "text": "Here is a practical comparison of Canada, Australia, New Zealand, and Portugal.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-1",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-1-0",
+            "text": "Canada: A Structured Route for Skilled Immigrants",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-1-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-1-0-0",
+            "text": "Canada has long been considered by international workers looking for permanent residence. Its immigration system includes several economic and family-based pathways.\nFor skilled workers, Express Entry is one of the main systems. It manages three federal programs: the Canadian Experience Class, Federal Skilled Worker Program, and Federal Skilled Trades Program. Eligible candidates create a profile and enter a pool, where candidates are ranked using the Comprehensive Ranking System. Invitations to apply for permanent residence are then issued through invitation rounds.\nCanada also has Provincial Nominee Programs and other regional immigration pathways. This means your options may depend not only on your occupation and experience but also on where you intend to settle.\nFamily immigration is another important part of the system. Eligible Canadian citizens and permanent residents can sponsor certain family members, including spouses, partners and dependent children, subject to the relevant requirements.\nFor someone comparing Canada vs New Zealand immigration, Canada may therefore be worth examining closely if a strong profile can qualify under a federal or provincial pathway.\nHowever, simply having a degree or work experience does not automatically mean you will receive permanent residence. Your complete profile and the applicable program matter.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-2",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-2-0",
+            "text": "Australia: Skilled Migration and Employment Opportunities",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-2-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-2-0-0",
+            "text": "Australia has a range of skilled migration options for people who want to work and potentially settle permanently.\nIts skilled migration program includes temporary, provisional and permanent visa categories. Some skilled visas provide pathways to permanent residence when applicants meet the relevant requirements. Australia also has permanent skilled visas for workers whose skills are valued in the Australian labour market.\nAustralia also provides family migration options. Eligible Australian citizens, permanent residents and certain eligible New Zealand citizens can sponsor family members through categories such as partner, parent, child and other family visas.\nFor professionals considering Canada vs Australia immigration, occupation, skills assessment, English-language ability, age, work experience and the particular visa pathway can all become important.\nAustralia's large cities also offer different employment and lifestyle environments. Sydney, Melbourne, Brisbane, Perth and Adelaide, for example, can have very different housing markets and employment conditions.\nThat is why comparing the country alone is not enough. You should also compare the specific city and industry where you expect to live and work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-3",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-3-0",
+            "text": "New Zealand: Skills, Jobs and Residence Pathways",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-3-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-3-0-0",
+            "text": "New Zealand takes a somewhat different approach to skilled residence.\nThe Skilled Migrant Category provides residence pathways for people with skills New Zealand needs. Current pathways include the points-based pathway, Skilled Work Experience pathway, and Trades and Technician pathway. Applicants generally need a qualifying skilled job or job offer and must meet other requirements such as English, health, and character criteria.\nNew Zealand also has Green List pathways for certain in-demand occupations.\nOne important point for anyone researching Australia vs New Zealand immigration is that the two systems should not be treated as identical. A profession that creates one set of opportunities in Australia may have different requirements in New Zealand.\nNew Zealand's smaller population and economy can also mean a different employment environment from Australia or Canada. At the same time, some applicants are attracted by its outdoor lifestyle, smaller cities, and work-life considerations.\nThe Skilled Migrant Category can include a partner and dependent children aged 24 or younger, subject to the applicable requirements.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-4",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-4-0",
+            "text": "Portugal: A Different Immigration Model",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-4-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-4-0-0",
+            "text": "Portugal is worth including in this comparison because its immigration system differs considerably from the traditional points-based skilled migration models people often associate with Canada or Australia.\nPortugal provides residence routes connected to employment, highly qualified activity, independent professional activity, and entrepreneurship, among other categories.\nFor example, Portugal has a residence visa route for employment, while official guidance also covers highly qualified activities and independent professional or entrepreneurial activity.\nPortugal also has a residence pathway for certain remote workers whose professional activity is performed for entities outside Portugal.\nThis makes Portugal particularly relevant to people whose priorities involve European residence, remote work, entrepreneurship, or highly qualified employment.\nHowever, applicants should be careful about older online articles describing Portuguese immigration rules. Immigration policies can change, and some routes that were widely discussed in previous years have been modified or discontinued.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-5",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-5-0",
+            "text": "Cost of Living: Look Beyond the Country",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-5-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-5-0-0",
+            "text": "Cost of living is one of the biggest factors people consider when comparing these four destinations.\nBut saying that one entire country is \"cheap\" or \"expensive\" can be misleading.\nHousing in Toronto is different from housing in Calgary. Melbourne is different from Adelaide. Auckland is different from Christchurch. Lisbon is different from smaller Portuguese cities.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "blog--essential-documents-australia",
+    "_type": "blogPost",
+    "title": "10 Essential documents needed for your Australian journey",
+    "slug": {
+      "_type": "slug",
+      "current": "essential-documents-australia"
+    },
+    "publishedAt": "2026-10-11T18:30:00.000Z",
+    "coverImage": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-135a1532688f66275005a22c22a5f9cd2e8fc19b-1448x1086-webp"
+      },
+      "alt": "10 Essential documents needed for your Australian journey"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "_key": "h-0",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-0-0",
+            "text": "Build your checklist around your visa",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-0-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-0-0",
+            "text": "Start with the document checklist for your Australian visa category. A visitor, student and skilled worker will need different evidence. Use your application’s instructions to decide what to collect, rather than uploading every document you own.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-1",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-1-0",
+            "text": "1–3: Identity, civil status and family",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-1-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-1-0-0",
+            "text": "Check your passport’s details and keep a clear copy of its identity page. Prepare birth records and any documents explaining a name change. If family members are included, gather the relationship documents requested for your application, such as marriage and children’s birth certificates.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-2",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-2-0",
+            "text": "4–6: Education, work and language",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-2-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-2-0-0",
+            "text": "Keep qualifications and academic transcripts together. Organise employment references, contracts and evidence supporting the experience you claim. Include accepted language-test results or skills-assessment evidence when your visa checklist asks for them.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-3",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-3-0",
+            "text": "7–8: Funds and your travel purpose",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-3-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-3-0-0",
+            "text": "Financial evidence should explain the funds available for your plans. The supporting documents for the purpose of your stay may include enrolment, employment or a travel itinerary. Ensure that dates, names and amounts agree across the file.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-4",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-4-0",
+            "text": "9–10: Character, health and translations",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-4-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-4-0-0",
+            "text": "Follow the relevant instructions for character and health evidence. Check translation and certification requirements before paying for these services. Keep both the original document and its translation organised under clear filenames.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-5",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-5-0",
+            "text": "Review before you upload",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-5-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-5-0-0",
+            "text": "Use the Australian Government’s ImmiAccount guidance to prepare and attach documents. Readability, consistency and the correct document category matter. Save a copy of what you submit and track any requests for additional information.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "blog--complete-immigration-checklist",
+    "_type": "blogPost",
+    "title": "Complete immigration checklist: Documents needed before you moving abroad",
+    "slug": {
+      "_type": "slug",
+      "current": "complete-immigration-checklist"
+    },
+    "publishedAt": "2026-10-04T18:30:00.000Z",
+    "coverImage": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-6b37c6af8a0dd8f129904835a15eac4e66b16f22-1448x1086-webp"
+      },
+      "alt": "Complete immigration checklist: Documents needed before you moving abroad"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "_key": "h-0",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-0-0",
+            "text": "Start with your destination and pathway",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-0-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-0-0",
+            "text": "An immigration checklist should reflect your country, programme and family circumstances. Create a folder for each applicant and separate identity, education, employment, financial and supporting documents. Use the checklist issued for your application as the final reference.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-1",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-1-0",
+            "text": "Identity and family records",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-1-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-1-0-0",
+            "text": "Review passports, birth certificates, marriage records and any name-change documents. Check that spellings and dates are consistent. Make a note of documents that need updating, translating or replacing before you start an application.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-2",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-2-0",
+            "text": "Education, work and language evidence",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-2-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-2-0-0",
+            "text": "Collect qualifications, transcripts, references and the records supporting your work history. Keep a timeline of employment and education so gaps can be explained accurately. Confirm whether your chosen route asks for a language test, credential evaluation or professional assessment.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-3",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-3-0",
+            "text": "Funds and supporting checks",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-3-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-3-0-0",
+            "text": "Organise the financial evidence requested for your situation, including savings, income or sponsorship information. Follow the application’s instructions for police certificates, medical examinations and other checks; the required timing and format may vary.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-4",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-4-0",
+            "text": "Prepare a final review folder",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-4-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-4-0-0",
+            "text": "Keep readable digital copies and a separate backup. Record expiry dates and retain receipts for documents you have requested. Before submitting, check every answer against the evidence and keep a copy of the complete application. A missing explanation can be as important as a missing document.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "blog--skilled-immigration-2026",
+    "_type": "blogPost",
+    "title": "Skilled immigration in 2026: How to find the right country and visa pathway",
+    "slug": {
+      "_type": "slug",
+      "current": "skilled-immigration-2026"
+    },
+    "publishedAt": "2026-09-30T18:30:00.000Z",
+    "coverImage": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-d8c6579180bc51cdc938a098e8ddedf496edc484-1448x1086-webp"
+      },
+      "alt": "Skilled immigration in 2026: How to find the right country and visa pathway"
+    },
+    "body": [
+      {
+        "_type": "block",
+        "_key": "h-0",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-0-0",
+            "text": "Choose a pathway around your profile",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-0-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-0-0-0",
+            "text": "Start with your occupation, qualifications, employment history, language skills and family plans. These details help you compare possible destinations. A country’s popularity is a starting point for research, rather than evidence that a particular visa suits you.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-1",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-1-0",
+            "text": "Separate interest from an application",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-1-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-1-0-0",
+            "text": "Some skilled migration systems use an expression of interest before a visa application. Australia’s SkillSelect, for example, lets skilled workers express interest in an invitation. An expression of interest is a separate stage; submitting one does not itself grant a visa.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-2",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-2-0",
+            "text": "Check how your experience is recognised",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-2-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-2-0-0",
+            "text": "Build an accurate employment timeline and describe what you actually do at work. Research any professional or skills assessment required by the pathway. Keep evidence of qualifications, duties and experience organised so you can substantiate the profile you present.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-3",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-3-0",
+            "text": "Compare the practical move",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-3-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-3-0-0",
+            "text": "Consider work opportunities, housing, education, family needs and the cost of preparing an application. Discuss whether a regional location or a different route could fit your plans. Avoid making financial commitments based only on an estimated outcome.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "h-4",
+        "style": "h2",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "h-4-0",
+            "text": "Review current information before acting",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "p-4-0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "p-4-0-0",
+            "text": "Programme settings and application requirements can change. Recheck official information when you are ready to apply. A detailed migration assessment can help identify questions to investigate and the evidence you still need to prepare.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "page--home",
+    "_type": "pageContent",
+    "pagePath": "/",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--citizenship--grenada",
+    "_type": "pageContent",
+    "pagePath": "/citizenship/grenada",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--citizenship--dominica",
+    "_type": "pageContent",
+    "pagePath": "/citizenship/dominica",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--about-us",
+    "_type": "pageContent",
+    "pagePath": "/about-us",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--canada-migration",
+    "_type": "pageContent",
+    "pagePath": "/canada-migration",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--australia-migration",
+    "_type": "pageContent",
+    "pagePath": "/australia-migration",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--new-zealand-migration",
+    "_type": "pageContent",
+    "pagePath": "/new-zealand-migration",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "New Zealand Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--canada-pr",
+    "_type": "pageContent",
+    "pagePath": "/canada-pr",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--australia-pr",
+    "_type": "pageContent",
+    "pagePath": "/australia-pr",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--new-zealand-pr",
+    "_type": "pageContent",
+    "pagePath": "/new-zealand-pr",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--canada-express-entry",
+    "_type": "pageContent",
+    "pagePath": "/canada-express-entry",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--canada-study-visa",
+    "_type": "pageContent",
+    "pagePath": "/canada-study-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Study Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--australia-study-visa",
+    "_type": "pageContent",
+    "pagePath": "/australia-study-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Australia Study Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--usa",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/usa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--uk",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/uk",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--canada",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/canada",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--australia",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/australia",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--new-zealand",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/new-zealand",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--ireland",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/ireland",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--asia-middle-east",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/asia-middle-east",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visit-visa--schengen",
+    "_type": "pageContent",
+    "pagePath": "/visit-visa/schengen",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--portugal-migration",
+    "_type": "pageContent",
+    "pagePath": "/portugal-migration",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--portugal-d2-visa",
+    "_type": "pageContent",
+    "pagePath": "/portugal-d2-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--portugal-d7-visa",
+    "_type": "pageContent",
+    "pagePath": "/portugal-d7-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--portugal-d8-visa",
+    "_type": "pageContent",
+    "pagePath": "/portugal-d8-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--portugal-golden-visa",
+    "_type": "pageContent",
+    "pagePath": "/portugal-golden-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--germany-opportunity-card",
+    "_type": "pageContent",
+    "pagePath": "/germany-opportunity-card",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--uk-study-visa",
+    "_type": "pageContent",
+    "pagePath": "/uk-study-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--georgia-study-visa",
+    "_type": "pageContent",
+    "pagePath": "/georgia-study-visa",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Our Happy Clients",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--citizenship--st-kitts-nevis",
+    "_type": "pageContent",
+    "pagePath": "/citizenship/st-kitts-nevis",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--citizenship--st-lucia",
+    "_type": "pageContent",
+    "pagePath": "/citizenship/st-lucia",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--citizenship--antigua-barbuda",
+    "_type": "pageContent",
+    "pagePath": "/citizenship/antigua-barbuda",
+    "faqEnabled": true,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "_type": "faq",
+        "_key": "faq-0",
+        "question": "What do Immigration Consultants in Dubai do?",
+        "answer": "Immigration Consultants in Dubai help individuals and families understand their immigration options, assess eligibility, prepare documents, and navigate the application process. Pelican Migration Consultants provides personalized guidance based on an applicant's profile, preferred destination, and migration goals."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-1",
+        "question": "How can Pelican Migration Consultants help with immigration from Dubai?",
+        "answer": "We assess your profile, recommend the most suitable visa pathway, prepare and review your documents, and support you through submission, follow-ups and landing in your destination country."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-2",
+        "question": "Why should I choose Immigration Consultants in Dubai for my migration application?",
+        "answer": "A licensed consultant reduces the risk of errors and delays. Our team offers one-to-one guidance, a transparent process and local support in Dubai at every stage of your application."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-3",
+        "question": "Which countries can I migrate to through Pelican Migration Consultants?",
+        "answer": "We specialise in Canada, Australia, New Zealand and Portugal, and also assist with Germany, the UK, Georgia, visit visas and citizenship-by-investment programs."
+      },
+      {
+        "_type": "faq",
+        "_key": "faq-4",
+        "question": "How do I know if I am eligible for immigration?",
+        "answer": "Start with our free eligibility assessment. Share a few details about your education, work experience and goals, and an immigration consultant will tell you which programs you may qualify for."
+      }
+    ],
+    "guideEnabled": false,
+    "guideTitle": "How to Apply for Canada Immigration?",
+    "guideParagraphs": [
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things.",
+      "Do you know what is the most beneficial route to Canada? The Canadian Permanent Residency Visa. A Canadian PR Visa is valid for five years and entitles the holder to all of the protections and entitlements of a Canadian citizen, with the exception of three things."
+    ],
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "Canada Immigration Made Easy",
+    "testimonials": [
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--contact-us",
+    "_type": "pageContent",
+    "pagePath": "/contact-us",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--success-stories",
+    "_type": "pageContent",
+    "pagePath": "/success-stories",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": true,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": [
+      {
+        "_key": "testimonial.wLAOihHHS94",
+        "_type": "reference",
+        "_ref": "testimonial--wLAOihHHS94"
+      },
+      {
+        "_key": "testimonial.fGyqV3fEC3w",
+        "_type": "reference",
+        "_ref": "testimonial--fGyqV3fEC3w"
+      },
+      {
+        "_key": "testimonial.y05zoJ_padg",
+        "_type": "reference",
+        "_ref": "testimonial--y05zoJ_padg"
+      },
+      {
+        "_key": "testimonial.h8zQ0-EQEjE",
+        "_type": "reference",
+        "_ref": "testimonial--h8zQ0-EQEjE"
+      },
+      {
+        "_key": "testimonial.QU6m636318A",
+        "_type": "reference",
+        "_ref": "testimonial--QU6m636318A"
+      },
+      {
+        "_key": "testimonial.OBMzGCHJDs4",
+        "_type": "reference",
+        "_ref": "testimonial--OBMzGCHJDs4"
+      },
+      {
+        "_key": "review.0",
+        "_type": "reference",
+        "_ref": "review--0"
+      },
+      {
+        "_key": "review.1",
+        "_type": "reference",
+        "_ref": "review--1"
+      },
+      {
+        "_key": "review.2",
+        "_type": "reference",
+        "_ref": "review--2"
+      },
+      {
+        "_key": "review.3",
+        "_type": "reference",
+        "_ref": "review--3"
+      },
+      {
+        "_key": "review.4",
+        "_type": "reference",
+        "_ref": "review--4"
+      }
+    ]
+  },
+  {
+    "_id": "page--visa-gallery",
+    "_type": "pageContent",
+    "pagePath": "/visa-gallery",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--blogs",
+    "_type": "pageContent",
+    "pagePath": "/blogs",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--check-eligibility",
+    "_type": "pageContent",
+    "pagePath": "/check-eligibility",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--privacy-policy",
+    "_type": "pageContent",
+    "pagePath": "/privacy-policy",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--cookie-policy",
+    "_type": "pageContent",
+    "pagePath": "/cookie-policy",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--terms-of-service",
+    "_type": "pageContent",
+    "pagePath": "/terms-of-service",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--blogs--canada-vs-australia-vs-new-zealand-vs-portugal",
+    "_type": "pageContent",
+    "pagePath": "/blogs/canada-vs-australia-vs-new-zealand-vs-portugal",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--blogs--essential-documents-australia",
+    "_type": "pageContent",
+    "pagePath": "/blogs/essential-documents-australia",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--blogs--complete-immigration-checklist",
+    "_type": "pageContent",
+    "pagePath": "/blogs/complete-immigration-checklist",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  },
+  {
+    "_id": "page--blogs--skilled-immigration-2026",
+    "_type": "pageContent",
+    "pagePath": "/blogs/skilled-immigration-2026",
+    "faqEnabled": false,
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [],
+    "guideEnabled": false,
+    "testimonialsEnabled": false,
+    "testimonialsTitle": "What Our Clients Say",
+    "testimonials": []
+  }
+]
