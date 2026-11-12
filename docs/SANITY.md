@@ -80,6 +80,8 @@ SANITY_API_READ_TOKEN=         # only for a private dataset
 SANITY_REVALIDATE_SECRET=      # server-only webhook secret
 ```
 
+The production Studio build maps `SANITY_PROJECT_ID` and `SANITY_DATASET` to its public `SANITY_STUDIO_*` equivalents automatically. You can use the same project/dataset variables for the website and embedded editor on Vercel; tokens and webhook secrets are never mapped to public variables.
+
 Studio (`studio/.env`):
 
 ```text

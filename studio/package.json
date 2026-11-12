@@ -2,7 +2,23 @@
   "name": "pelican-content-studio",
   "private": true,
   "version": "1.0.0",
-  "scripts": { "dev": "sanity dev", "build": "sanity build", "deploy": "sanity deploy", "typecheck": "tsc --noEmit", "seed": "node scripts/seed.mjs" },
-  "dependencies": { "sanity": "4.22.0", "react": "^19.1.0", "react-dom": "^19.1.0", "styled-components": "^6.1.15" },
-  "devDependencies": { "typescript": "^5", "@types/react": "^19", "@types/react-dom": "^19", "@types/node": "^20" }
+  "scripts": {
+    "dev": "sanity dev",
+    "build": "node scripts/build.mjs",
+    "deploy": "sanity deploy",
+    "typecheck": "tsc --noEmit",
+    "seed": "node scripts/seed.mjs"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "sanity": "4.22.0",
+    "styled-components": "^6.1.15"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
 }
