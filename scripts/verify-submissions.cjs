@@ -1,0 +1,38 @@
+/* eslint-disable @typescript-eslint/no-require-imports -- Compile the server module for isolated delivery tests without sending network requests. */
+const assert = require('node:assert/strict');
+const fs = require('fs');
+const ts = require('typescript');
+const Module = require('module');
+const path = require('path');
+const filename = path.resolve('src/lib/submissions.ts');
+const compiled = new Module(filename, module);
+compiled._compile(ts.transpileModule(fs.readFileSync(filename, 'utf8'), { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022 } }).outputText, filename);
+const { deliverEnquiry, deliverNewsletter, parseSubmission } = compiled.exports;
+const saved = { ...process.env };
+const enquiry = { name: 'Test Applicant', email: 'test@example.com', submissionId: 'unit-test-submission-123', kind: 'eligibility', fields: [{ label: 'Destination', value: 'Canada' }] };
+(async () => {
+  for (const key of ['RESEND_API_KEY', 'ENQUIRY_FROM_EMAIL', 'ENQUIRY_TO_EMAIL', 'NEWSLETTER_WEBHOOK_URL', 'NEWSLETTER_WEBHOOK_SECRET']) delete process.env[key];
+  assert.equal((await deliverEnquiry(enquiry)).status, 503);
+  assert.equal((await deliverNewsletter({ email: 'test@example.com', consent: true })).status, 503);
+  assert.equal((await deliverEnquiry({ ...enquiry, email: 'bad\nemail' })).status, 400);
+  assert.equal((await deliverNewsletter({ email: 'test@example.com', consent: false })).status, 400);
+  process.env.RESEND_API_KEY = 'test-key'; process.env.ENQUIRY_FROM_EMAIL = 'website@example.com'; process.env.ENQUIRY_TO_EMAIL = 'team@example.com';
+  let outbound;
+  assert.equal((await deliverEnquiry(enquiry, async (url, options) => { outbound = { url, options }; return Response.json({ id: 'test-message' }); })).status, 200);
+  const payload = JSON.parse(outbound.options.body);
+  assert.deepEqual(payload.to, ['team@example.com']); assert.equal(payload.reply_to, 'test@example.com'); assert.match(payload.text, /Destination: Canada/); assert.equal(outbound.options.headers['Idempotency-Key'], 'enquiry-unit-test-submission-123');
+  assert.equal((await deliverEnquiry(enquiry, async () => Response.json({ error: 'provider failure' }, { status: 500 }))).status, 502);
+  assert.equal((await deliverEnquiry(enquiry, async () => Response.json({}))).status, 502);
+  assert.equal((await deliverEnquiry(enquiry, async () => { throw new Error('timeout'); })).status, 502);
+  process.env.NEWSLETTER_WEBHOOK_URL = 'https://mailing.example.com/subscribe'; process.env.NEWSLETTER_WEBHOOK_SECRET = 'test-secret';
+  assert.equal((await deliverNewsletter({ email: 'test@example.com', consent: true }, async (url, options) => { outbound = { url, options }; return new Response(null, { status: 204 }); })).status, 200);
+  assert.equal(outbound.options.headers.Authorization, 'Bearer test-secret'); assert.equal(JSON.parse(outbound.options.body).consent, true);
+  assert.equal((await deliverNewsletter({ email: 'test@example.com', consent: true }, async () => new Response(null, { status: 500 }))).status, 502);
+  const request = (body, origin='https://pelican.example') => new Request('https://pelican.example/api/enquiries', { method: 'POST', headers: { origin, 'content-type': 'application/json' }, body });
+  assert.equal((await parseSubmission(request('{}', 'https://other.example'))).status, 403);
+  assert.equal((await parseSubmission(request('{'))).status, 400);
+  assert.equal((await parseSubmission(request(JSON.stringify({ website: 'spam' })))).status, 400);
+  assert.equal((await parseSubmission(request('x'.repeat(65537)))).status, 413);
+  assert.deepEqual(await parseSubmission(request(JSON.stringify({ email: 'test@example.com' }))), { email: 'test@example.com' });
+  console.log('Submission validation, missing configuration, delivery success/failure, newsletter consent and webhook authentication passed. No live messages sent.');
+})().finally(() => { for (const key of Object.keys(process.env)) if (!(key in saved)) delete process.env[key]; Object.assign(process.env, saved); }).catch((error) => { console.error(error); process.exitCode = 1; });
