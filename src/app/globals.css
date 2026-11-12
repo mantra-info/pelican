@@ -1,26 +1,180 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/*
+  Layout & scaling
+  ─────────────────
+  DESIGN_WIDTH  = 1920px  (Figma desktop frame)
+  CONTENT_WIDTH = 1560px  (Figma content column: 180px side margins on 1920)
+  SCALE_FROM    = 64rem   (1024px)
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  From 64rem the root font size is 100vw / 120, so 1rem = 1/16 of a Figma px at 1920
+  and the whole desktop composition scales with the window. Below 64rem the root
+  stays at the browser default and the layout is responsive.
+  All sizes are in rem (Figma px ÷ 16); only hairlines, shadows and breakpoints stay px.
+*/
+@media (width >= 64rem) {
+  html {
+    font-size: calc(100vw / 120);
   }
 }
 
+@theme {
+  --font-sans: var(--font-jakarta), "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  /* Colours (Figma variables) */
+  --color-light-50: #fefefe;
+  --color-light-100: #f9f9f9;
+  --color-light-200: #f6f6f6;
+
+  --color-dark-75: #9f9f9f;
+  --color-dark-100: #777777;
+  --color-dark-200: #3c3c3c;
+  --color-dark-300: #141414;
+  --color-dark-500: #0c0c0c;
+
+  --color-orange-200: #f2aa46;
+  --color-orange-300: #ef9920;
+  --color-orange-400: #a76b16;
+  --color-orange-500: #925d14;
+
+  --color-navy-50: #e6eef3;
+  --color-navy-75: #a2bac9;
+  --color-navy-100: #7c9db3;
+  --color-navy-200: #437392;
+  --color-navy-300: #1d567c;
+  --color-navy-400: #143c57;
+  --color-navy-500: #12344c;
+
+  --color-grey-50: #f4f3f3;
+  --color-grey-100: #bdbbb8;
+  --color-grey-200: #a19d9a;
+  --color-grey-300: #8e8985;
+  --color-grey-400: #63605d;
+
+  /* Radii (radius/2, 4, 8, 16) */
+  --radius-xs: 0.125rem;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-xl: 1rem;
+
+  /* Type scale — desktop (Figma Type Style tokens, px ÷ 16) */
+  --text-display: 3.875rem;
+  --text-display--line-height: 3.75rem;
+  --text-display1: 2.625rem;
+  --text-display1--line-height: 2.625rem;
+  --text-h1: 1.75rem;
+  --text-h1--line-height: 1.75rem;
+  --text-h2: 1.5rem;
+  --text-h2--line-height: 2rem;
+  --text-h3: 1.25rem;
+  --text-h3--line-height: 1.5rem;
+  --text-body1: 1.125rem;
+  --text-body1--line-height: 1.875rem;
+  --text-body2: 1rem;
+  --text-body2--line-height: 1.5rem;
+  --text-body3: 0.875rem;
+  --text-body3--line-height: 0.9375rem;
+  --text-body4: 0.75rem;
+  --text-body4--line-height: 0.75rem;
+  --text-label1: 1.25rem;
+  --text-label1--line-height: normal;
+  --text-label2: 1.125rem;
+  --text-label2--line-height: 1.125rem;
+  --text-label3: 1rem;
+  --text-label3--line-height: 1.25rem;
+
+  /* Type scale — phone/tablet overrides (root is 16px below 64rem) */
+  --text-display-m: 2.5rem;
+  --text-display-m--line-height: 2.625rem;
+  --text-display1-m: 1.875rem;
+  --text-display1-m--line-height: 2.25rem;
+  --text-h1-m: 1.375rem;
+  --text-h1-m--line-height: 1.75rem;
+  --text-h2-m: 1.25rem;
+  --text-h2-m--line-height: 1.75rem;
+  --text-body1-m: 1rem;
+  --text-body1-m--line-height: 1.625rem;
+  --text-label1-m: 1.125rem;
+  --text-label2-m: 1rem;
+  --text-label2-m--line-height: 1.125rem;
+}
+
+/* Container gutter: 1rem phone, 1.5rem tablet, 4rem desktop */
+:root {
+  --gutter: 1rem;
+  --content: 97.5rem; /* 1560px */
+}
+@media (width >= 40rem) {
+  :root {
+    --gutter: 1.5rem;
+  }
+}
+@media (width >= 64rem) {
+  :root {
+    --gutter: 4rem;
+  }
+}
+
+@layer components {
+  .container-page {
+    width: 100%;
+    max-width: calc(var(--content) + 2 * var(--gutter));
+    margin-inline: auto;
+    padding-inline: var(--gutter);
+  }
+  /* Left inset matching .container-page, for full-bleed carousels */
+  .bleed-start {
+    padding-left: max(var(--gutter), calc((100% - var(--content)) / 2));
+    scroll-padding-left: max(var(--gutter), calc((100% - var(--content)) / 2));
+  }
+
+  /* Type styles: phone/tablet size below 64rem, Figma size from 64rem */
+  .t-display { font-size: var(--text-display-m); line-height: var(--text-display-m--line-height); }
+  .t-display1 { font-size: var(--text-display1-m); line-height: var(--text-display1-m--line-height); }
+  .t-h1 { font-size: var(--text-h1-m); line-height: var(--text-h1-m--line-height); }
+  .t-h2 { font-size: var(--text-h2-m); line-height: var(--text-h2-m--line-height); }
+  .t-h3 { font-size: var(--text-h3); line-height: var(--text-h3--line-height); }
+  .t-body1 { font-size: var(--text-body1-m); line-height: var(--text-body1-m--line-height); }
+  .t-body2 { font-size: var(--text-body2); line-height: var(--text-body2--line-height); }
+  .t-body3 { font-size: var(--text-body3); line-height: var(--text-body3--line-height); }
+  .t-body4 { font-size: var(--text-body4); line-height: var(--text-body4--line-height); }
+  .t-label1 { font-size: var(--text-label1-m); line-height: normal; }
+  .t-label2 { font-size: var(--text-label2-m); line-height: var(--text-label2-m--line-height); }
+  .t-label3 { font-size: var(--text-label3); line-height: var(--text-label3--line-height); }
+
+  @media (width >= 64rem) {
+    .t-display { font-size: var(--text-display); line-height: var(--text-display--line-height); }
+    .t-display1 { font-size: var(--text-display1); line-height: var(--text-display1--line-height); }
+    .t-h1 { font-size: var(--text-h1); line-height: var(--text-h1--line-height); }
+    .t-h2 { font-size: var(--text-h2); line-height: var(--text-h2--line-height); }
+    .t-body1 { font-size: var(--text-body1); line-height: var(--text-body1--line-height); }
+    .t-label1 { font-size: var(--text-label1); }
+    .t-label2 { font-size: var(--text-label2); line-height: var(--text-label2--line-height); }
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-light-100);
+  color: var(--color-dark-300);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Keep placeholder colour independent of whether a dropdown is mandatory. */
+.form-select:has(option:checked[value=""]) {
+  color: var(--color-grey-300);
+}
+.form-select:has(option:checked:not([value=""])) {
+  border-color: var(--color-grey-300);
 }

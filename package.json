@@ -6,22 +6,34 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test:eligibility": "node scripts/verify-eligibility.cjs",
+    "test:submissions": "node scripts/verify-submissions.cjs",
+    "test:site": "node scripts/verify-site.cjs",
+    "test:cms": "node scripts/verify-cms.cjs",
+    "cms:export": "node scripts/export-sanity.cjs",
+    "cms:studio": "npm run dev --prefix studio",
+    "cms:build": "npm run build --prefix studio",
+    "prebuild": "npm run cms:build",
+    "test:studio": "node scripts/verify-studio.cjs",
+    "predev": "npm run cms:build"
   },
   "dependencies": {
+    "@sanity/webhook": "^4.0.4",
+    "next": "15.5.4",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.5.4"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.5.4",
-    "@eslint/eslintrc": "^3"
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }

@@ -12,9 +12,15 @@ const compat = new FlatCompat({
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   {
+    // Figma SVG icons are rendered with plain <img> at their native size; photos use next/image.
+    rules: { "@next/next/no-img-element": "off" },
+  },
+  {
     ignores: [
       "node_modules/**",
+      "studio/**",
       ".next/**",
+      ".next-cms/**",
       "out/**",
       "build/**",
       "next-env.d.ts",

@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Safe configuration template; real environment files remain ignored.
+!.env.example
+
+# Isolated CMS/production verification output
+/.next-cms/
+
+# Local image compression staging (not deployed)
+/.media-cache/
