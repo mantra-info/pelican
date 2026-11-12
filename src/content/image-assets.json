@@ -1,0 +1,1418 @@
+{
+  "/images/approval-australia.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6d5c6ff06ef860bcb371c4f8904f275782d995de-1080x1440.webp",
+    "asset": "image-6d5c6ff06ef860bcb371c4f8904f275782d995de-1080x1440-webp",
+    "width": 1080,
+    "height": 1440
+  },
+  "/images/approval-canada.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f573951307e716fb7c56417bc2871f1ae83e1d1e-1080x1440.webp",
+    "asset": "image-f573951307e716fb7c56417bc2871f1ae83e1d1e-1080x1440-webp",
+    "width": 1080,
+    "height": 1440
+  },
+  "/images/banner-office-light.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/945ca7103a4af74550d18dfd30951727f82888ed-953x520.webp",
+    "asset": "image-945ca7103a4af74550d18dfd30951727f82888ed-953x520-webp",
+    "width": 953,
+    "height": 520
+  },
+  "/images/banner-office.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/983f011fa3390d9a4575064747d796aa8ffbd498-1672x941.webp",
+    "asset": "image-983f011fa3390d9a4575064747d796aa8ffbd498-1672x941-webp",
+    "width": 1672,
+    "height": 941
+  },
+  "/images/banner-pattern.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/16d326aba617bc3028c81709ec0cbfe878e0786c-1024x1024.webp",
+    "asset": "image-16d326aba617bc3028c81709ec0cbfe878e0786c-1024x1024-webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "/images/blog-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/aa8a53c55d1ab10506d41c103240695f58845f91-1448x1086.webp",
+    "asset": "image-aa8a53c55d1ab10506d41c103240695f58845f91-1448x1086-webp",
+    "width": 1448,
+    "height": 1086
+  },
+  "/images/blog-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/135a1532688f66275005a22c22a5f9cd2e8fc19b-1448x1086.webp",
+    "asset": "image-135a1532688f66275005a22c22a5f9cd2e8fc19b-1448x1086-webp",
+    "width": 1448,
+    "height": 1086
+  },
+  "/images/blog-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6b37c6af8a0dd8f129904835a15eac4e66b16f22-1448x1086.webp",
+    "asset": "image-6b37c6af8a0dd8f129904835a15eac4e66b16f22-1448x1086-webp",
+    "width": 1448,
+    "height": 1086
+  },
+  "/images/blog-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d8c6579180bc51cdc938a098e8ddedf496edc484-1448x1086.webp",
+    "asset": "image-d8c6579180bc51cdc938a098e8ddedf496edc484-1448x1086-webp",
+    "width": 1448,
+    "height": 1086
+  },
+  "/images/cert-cicc.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/dd5b6d1d272c8dd3589a55356cd3da4a0fcdce6b-1000x326.webp",
+    "asset": "image-dd5b6d1d272c8dd3589a55356cd3da4a0fcdce6b-1000x326-webp",
+    "width": 1000,
+    "height": 326
+  },
+  "/images/cert-idp-ielts.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/db42327c000460d8aa94eefcb826dd56177e8441-1023x244.webp",
+    "asset": "image-db42327c000460d8aa94eefcb826dd56177e8441-1023x244-webp",
+    "width": 1023,
+    "height": 244
+  },
+  "/images/cert-khaleej-times.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ef10afdd064e2c5a91db793c23153b5bb63a5216-843x150.webp",
+    "asset": "image-ef10afdd064e2c5a91db793c23153b5bb63a5216-843x150-webp",
+    "width": 843,
+    "height": 150
+  },
+  "/images/cicc-badge.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/43697f61b762d30d66639af949bce1de6ddd5f5f-174x57.webp",
+    "asset": "image-43697f61b762d30d66639af949bce1de6ddd5f5f-174x57-webp",
+    "width": 174,
+    "height": 57
+  },
+  "/images/dest-australia.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9892175e8866dff9d3643a75e7ca7f48864cbef1-640x800.webp",
+    "asset": "image-9892175e8866dff9d3643a75e7ca7f48864cbef1-640x800-webp",
+    "width": 640,
+    "height": 800
+  },
+  "/images/dest-canada.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/b368ed02297eef9ff52de464ce3fa7f04361b25c-1321x2000.webp",
+    "asset": "image-b368ed02297eef9ff52de464ce3fa7f04361b25c-1321x2000-webp",
+    "width": 1321,
+    "height": 2000
+  },
+  "/images/dest-newzealand.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/56345af60e9c9489e29097cb2f2254edfc013ddc-600x800.webp",
+    "asset": "image-56345af60e9c9489e29097cb2f2254edfc013ddc-600x800-webp",
+    "width": 600,
+    "height": 800
+  },
+  "/images/dest-portugal.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/24519935daf017ab4aa50aa68b7570fd2feb30c3-2000x1333.webp",
+    "asset": "image-24519935daf017ab4aa50aa68b7570fd2feb30c3-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/help-accountant.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/06b3a3d9eff8e022e07f04f2e5bce780c58eb41f-2000x1333.webp",
+    "asset": "image-06b3a3d9eff8e022e07f04f2e5bce780c58eb41f-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/help-engineer.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/db8eff02853d69db57eacebab0c831feead2dd94-2000x1333.webp",
+    "asset": "image-db8eff02853d69db57eacebab0c831feead2dd94-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/help-family.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/7ee8ca9ccacedfc4ae63e078643de2c72963a1de-2000x1334.webp",
+    "asset": "image-7ee8ca9ccacedfc4ae63e078643de2c72963a1de-2000x1334-webp",
+    "width": 2000,
+    "height": 1334
+  },
+  "/images/help-healthcare.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2b9ac1d03b001c6981419913af6f46c63f944922-1280x1920.webp",
+    "asset": "image-2b9ac1d03b001c6981419913af6f46c63f944922-1280x1920-webp",
+    "width": 1280,
+    "height": 1920
+  },
+  "/images/help-investor.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/50fd5a4cfd8feb93db7fa42ecb9ab5ce550e0f6a-1333x2000.webp",
+    "asset": "image-50fd5a4cfd8feb93db7fa42ecb9ab5ce550e0f6a-1333x2000-webp",
+    "width": 1333,
+    "height": 2000
+  },
+  "/images/help-manager.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/b657982c436b99d1165a373cda667e77f96f2571-1335x2000.webp",
+    "asset": "image-b657982c436b99d1165a373cda667e77f96f2571-1335x2000-webp",
+    "width": 1335,
+    "height": 2000
+  },
+  "/images/help-pattern.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f5bf1b52b8151f26a17c0843f2deff7c1bad2114-1024x1024.webp",
+    "asset": "image-f5bf1b52b8151f26a17c0843f2deff7c1bad2114-1024x1024-webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "/images/hero-bg.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9ebbd8eabccb1829f768105b244206080bc3f073-2014x780.webp",
+    "asset": "image-9ebbd8eabccb1829f768105b244206080bc3f073-2014x780-webp",
+    "width": 2014,
+    "height": 780
+  },
+  "/images/menu-australia.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/709cc0e1b0852e0c72d7abe846442ed68d5dfc36-2000x1334.webp",
+    "asset": "image-709cc0e1b0852e0c72d7abe846442ed68d5dfc36-2000x1334-webp",
+    "width": 2000,
+    "height": 1334
+  },
+  "/images/menu-canada.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ee27b7f9549216322da1c794483e0e16140aa2b9-1500x1000.webp",
+    "asset": "image-ee27b7f9549216322da1c794483e0e16140aa2b9-1500x1000-webp",
+    "width": 1500,
+    "height": 1000
+  },
+  "/images/menu-newzealand.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/5ed9c83355fa3eb881f3c710c1cd682fd5044b0c-1280x853.webp",
+    "asset": "image-5ed9c83355fa3eb881f3c710c1cd682fd5044b0c-1280x853-webp",
+    "width": 1280,
+    "height": 853
+  },
+  "/images/pages/about-intro.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c0cef59536a24746156528906f29aef8b9f68e9b-1560x417.webp",
+    "asset": "image-c0cef59536a24746156528906f29aef8b9f68e9b-1560x417-webp",
+    "width": 1560,
+    "height": 417
+  },
+  "/images/pages/about-why-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/cb58330a87487a83814dd53ca4e7f51a56392a70-504x215.webp",
+    "asset": "image-cb58330a87487a83814dd53ca4e7f51a56392a70-504x215-webp",
+    "width": 504,
+    "height": 215
+  },
+  "/images/pages/about-why-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/46de2833dc8a3e6c6ce2e0093d0df98c6b83011d-504x215.webp",
+    "asset": "image-46de2833dc8a3e6c6ce2e0093d0df98c6b83011d-504x215-webp",
+    "width": 504,
+    "height": 215
+  },
+  "/images/pages/about-why-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/65985a84ebb228e2dfd43fe962c0551eb675ee44-504x215.webp",
+    "asset": "image-65985a84ebb228e2dfd43fe962c0551eb675ee44-504x215-webp",
+    "width": 504,
+    "height": 215
+  },
+  "/images/pages/australia-pr-benefits.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/463a77cbddb13e19e94294e43214bdcbefe37a7e-760x440.webp",
+    "asset": "image-463a77cbddb13e19e94294e43214bdcbefe37a7e-760x440-webp",
+    "width": 760,
+    "height": 440
+  },
+  "/images/pages/australia-pr-migrate.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/254178faa043a810fea54f15027ef26251a78bbb-760x748.webp",
+    "asset": "image-254178faa043a810fea54f15027ef26251a78bbb-760x748-webp",
+    "width": 760,
+    "height": 748
+  },
+  "/images/pages/australia-study-conclusion.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/7ed9ecb375b8cedf3ff962ff6e37391ce7cfde30-760x464.webp",
+    "asset": "image-7ed9ecb375b8cedf3ff962ff6e37391ce7cfde30-760x464-webp",
+    "width": 760,
+    "height": 464
+  },
+  "/images/pages/australia-study-education.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/de24f037855d06147eeef53ae17bbea880f1a221-760x608.webp",
+    "asset": "image-de24f037855d06147eeef53ae17bbea880f1a221-760x608-webp",
+    "width": 760,
+    "height": 608
+  },
+  "/images/pages/australia-study-quality.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/4e82e72d837e190b40ef35ffe7b6f1fe3ba0c200-760x420.webp",
+    "asset": "image-4e82e72d837e190b40ef35ffe7b6f1fe3ba0c200-760x420-webp",
+    "width": 760,
+    "height": 420
+  },
+  "/images/pages/australia-study-why.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/31d271301dabaf89f69e5c4bb7363e373b5eeea1-760x802.webp",
+    "asset": "image-31d271301dabaf89f69e5c4bb7363e373b5eeea1-760x802-webp",
+    "width": 760,
+    "height": 802
+  },
+  "/images/pages/canada-pr-benefit-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/bede3317d7548aa862172cebc5233af22e5c6b41-1920x1269.webp",
+    "asset": "image-bede3317d7548aa862172cebc5233af22e5c6b41-1920x1269-webp",
+    "width": 1920,
+    "height": 1269
+  },
+  "/images/pages/canada-pr-benefit-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/160c3a60ffafbcdd4b1bb851cef0ebfc0c32b711-2000x1334.webp",
+    "asset": "image-160c3a60ffafbcdd4b1bb851cef0ebfc0c32b711-2000x1334-webp",
+    "width": 2000,
+    "height": 1334
+  },
+  "/images/pages/canada-pr-benefit-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/b602559c9b8c595164df87a55c635ec862818823-2000x1333.webp",
+    "asset": "image-b602559c9b8c595164df87a55c635ec862818823-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/pages/canada-pr-benefit-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/64d6fda8f3a51fcfa32e5f2fff1f85875ae3c228-2000x1334.webp",
+    "asset": "image-64d6fda8f3a51fcfa32e5f2fff1f85875ae3c228-2000x1334-webp",
+    "width": 2000,
+    "height": 1334
+  },
+  "/images/pages/canada-pr-dubai.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ce2ed5160ec3529e0aff10e51b35dca21e14b058-760x990.webp",
+    "asset": "image-ce2ed5160ec3529e0aff10e51b35dca21e14b058-760x990-webp",
+    "width": 760,
+    "height": 990
+  },
+  "/images/pages/canada-pr-route.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6f3151ec5fb1d371565613786a96e53d501b151b-760x530.webp",
+    "asset": "image-6f3151ec5fb1d371565613786a96e53d501b151b-760x530-webp",
+    "width": 760,
+    "height": 530
+  },
+  "/images/pages/canada-study-courses.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/993c89d8e2d4842276dfbaabedc3386d582535d5-760x420.webp",
+    "asset": "image-993c89d8e2d4842276dfbaabedc3386d582535d5-760x420-webp",
+    "width": 760,
+    "height": 420
+  },
+  "/images/pages/canada-study-masters.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/071a0ba799a7774ec6b618fe8f539404a9194c94-760x420.webp",
+    "asset": "image-071a0ba799a7774ec6b618fe8f539404a9194c94-760x420-webp",
+    "width": 760,
+    "height": 420
+  },
+  "/images/pages/canada-study-scholarships.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/8d099496763127b443a96f9f82d1142deabd87f9-760x420.webp",
+    "asset": "image-8d099496763127b443a96f9f82d1142deabd87f9-760x420-webp",
+    "width": 760,
+    "height": 420
+  },
+  "/images/pages/canada-study-visa-application.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f1b72d5513dc658a87bd80596321756d5522493b-760x544.webp",
+    "asset": "image-f1b72d5513dc658a87bd80596321756d5522493b-760x544-webp",
+    "width": 760,
+    "height": 544
+  },
+  "/images/pages/citizenship/antigua-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/15bdeebae6ffbd854cef01d2812ce2475dcf999f-1920x794.webp",
+    "asset": "image-15bdeebae6ffbd854cef01d2812ce2475dcf999f-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/citizenship/antigua-pelican.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/68ac19711a126acf227748bd2fa7110d8834aa76-760x1066.webp",
+    "asset": "image-68ac19711a126acf227748bd2fa7110d8834aa76-760x1066-webp",
+    "width": 760,
+    "height": 1066
+  },
+  "/images/pages/citizenship/st-kitts-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/54095f4a2d4b5b95399a9d030e2a4ff328dfe994-1920x794.webp",
+    "asset": "image-54095f4a2d4b5b95399a9d030e2a4ff328dfe994-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/citizenship/st-kitts-pelican.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e36e32927eb77bd5697a2178fea78c84503be6ac-760x966.webp",
+    "asset": "image-e36e32927eb77bd5697a2178fea78c84503be6ac-760x966-webp",
+    "width": 760,
+    "height": 966
+  },
+  "/images/pages/citizenship/st-lucia-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/3bdeee1d271ddd1b91913456fb9730efe1c2385f-1920x794.webp",
+    "asset": "image-3bdeee1d271ddd1b91913456fb9730efe1c2385f-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/citizenship/st-lucia-pelican.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/1f92ff6b2b6db7d98ebd544fd218d435e60a3d94-760x1026.webp",
+    "asset": "image-1f92ff6b2b6db7d98ebd544fd218d435e60a3d94-760x1026-webp",
+    "width": 760,
+    "height": 1026
+  },
+  "/images/pages/express-entry-offer-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ee1dd29e3a5d4bed4eee36db51ed7f6bc357b2bc-2000x1157.webp",
+    "asset": "image-ee1dd29e3a5d4bed4eee36db51ed7f6bc357b2bc-2000x1157-webp",
+    "width": 2000,
+    "height": 1157
+  },
+  "/images/pages/express-entry-offer-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/41d83a6233717486c53b3a38bc0603b93edcb481-2000x1333.webp",
+    "asset": "image-41d83a6233717486c53b3a38bc0603b93edcb481-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/pages/express-entry-offer-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/1c61fb4078e6ac1fcff2678f5fb4aaf227eb10f2-2000x1335.webp",
+    "asset": "image-1c61fb4078e6ac1fcff2678f5fb4aaf227eb10f2-2000x1335-webp",
+    "width": 2000,
+    "height": 1335
+  },
+  "/images/pages/express-entry-offer-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/5101a9a9e7c306a965fc6819dd952516644d40e7-2000x1334.webp",
+    "asset": "image-5101a9a9e7c306a965fc6819dd952516644d40e7-2000x1334-webp",
+    "width": 2000,
+    "height": 1334
+  },
+  "/images/pages/georgia/akaki-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/3e0a156c1a462e7f49442db2933168c27d858b4f-217x48.webp",
+    "asset": "image-3e0a156c1a462e7f49442db2933168c27d858b4f-217x48-webp",
+    "width": 217,
+    "height": 48
+  },
+  "/images/pages/georgia/akaki.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/1e447e968496f0beac282b04dd4a27048aca1857-341x369.webp",
+    "asset": "image-1e447e968496f0beac282b04dd4a27048aca1857-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/alte.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/3f1add1b5a53487b14101cee960cf1d2e82d7332-341x369.webp",
+    "asset": "image-3f1add1b5a53487b14101cee960cf1d2e82d7332-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/benefit-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2ba9fb2441dd82a7b3b10d7c724cb602f8af6c26-500x334.webp",
+    "asset": "image-2ba9fb2441dd82a7b3b10d7c724cb602f8af6c26-500x334-webp",
+    "width": 500,
+    "height": 334
+  },
+  "/images/pages/georgia/benefit-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9a113278b61a7eb7389286f25870264c0b596fa9-500x334.webp",
+    "asset": "image-9a113278b61a7eb7389286f25870264c0b596fa9-500x334-webp",
+    "width": 500,
+    "height": 334
+  },
+  "/images/pages/georgia/benefit-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a8300aadaa95e5a428796aaa025fb5ca7fef9fd1-500x336.webp",
+    "asset": "image-a8300aadaa95e5a428796aaa025fb5ca7fef9fd1-500x336-webp",
+    "width": 500,
+    "height": 336
+  },
+  "/images/pages/georgia/benefit-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a23bc8e63fad5115e43b0008fc1610a929208855-500x336.webp",
+    "asset": "image-a23bc8e63fad5115e43b0008fc1610a929208855-500x336-webp",
+    "width": 500,
+    "height": 336
+  },
+  "/images/pages/georgia/benefit-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6880b883b237bd61443246e04068558575fb1a5e-500x334.webp",
+    "asset": "image-6880b883b237bd61443246e04068558575fb1a5e-500x334-webp",
+    "width": 500,
+    "height": 334
+  },
+  "/images/pages/georgia/benefit-6.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9ae48a1f4121c2afdc07d1fcacbcb4dce5bcd08a-500x334.webp",
+    "asset": "image-9ae48a1f4121c2afdc07d1fcacbcb4dce5bcd08a-500x334-webp",
+    "width": 500,
+    "height": 334
+  },
+  "/images/pages/georgia/caucasus-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a893c7a6404779b3dd6e8ecb93798402b5cc2bda-46x48.webp",
+    "asset": "image-a893c7a6404779b3dd6e8ecb93798402b5cc2bda-46x48-webp",
+    "width": 46,
+    "height": 48
+  },
+  "/images/pages/georgia/caucasus.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/7fde25e079dd595b515374a8d337311f4f6c0791-341x367.webp",
+    "asset": "image-7fde25e079dd595b515374a8d337311f4f6c0791-341x367-webp",
+    "width": 341,
+    "height": 367
+  },
+  "/images/pages/georgia/european-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/748899b62d90d974423b096603c94b2477c5e80d-134x48.webp",
+    "asset": "image-748899b62d90d974423b096603c94b2477c5e80d-134x48-webp",
+    "width": 134,
+    "height": 48
+  },
+  "/images/pages/georgia/european.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c4e53151ff64b21744ae5e0ada07a23fe84e1aa1-341x369.webp",
+    "asset": "image-c4e53151ff64b21744ae5e0ada07a23fe84e1aa1-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/gau-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/aac93a23f45b36de9e5f2ca69fab2e9594185524-98x48.webp",
+    "asset": "image-aac93a23f45b36de9e5f2ca69fab2e9594185524-98x48-webp",
+    "width": 98,
+    "height": 48
+  },
+  "/images/pages/georgia/gau.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d1a89c8b3b7e11c5205eb079108898dabb96803f-341x369.webp",
+    "asset": "image-d1a89c8b3b7e11c5205eb079108898dabb96803f-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/geomedi-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/16b6e9133af1ba03d77a7edc2624377f541d2e14-48x48.webp",
+    "asset": "image-16b6e9133af1ba03d77a7edc2624377f541d2e14-48x48-webp",
+    "width": 48,
+    "height": 48
+  },
+  "/images/pages/georgia/geomedi.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/98c7c7dc2529dd2035ab1ccdce4ea4d7aa85fbce-341x369.webp",
+    "asset": "image-98c7c7dc2529dd2035ab1ccdce4ea4d7aa85fbce-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/084e4439bbe0089b1189e0756493aa06e6837532-1920x794.webp",
+    "asset": "image-084e4439bbe0089b1189e0756493aa06e6837532-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/georgia/ilia-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/46aae287495c9f18109d96ffab778e13d2754e35-48x48.webp",
+    "asset": "image-46aae287495c9f18109d96ffab778e13d2754e35-48x48-webp",
+    "width": 48,
+    "height": 48
+  },
+  "/images/pages/georgia/ilia.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/3f3125867c88a71b972a708a2e520aed69f2b17a-341x367.webp",
+    "asset": "image-3f3125867c88a71b972a708a2e520aed69f2b17a-341x367-webp",
+    "width": 341,
+    "height": 367
+  },
+  "/images/pages/georgia/intro.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/da610c1f862814624ccd51e81eb5141fa1de4bf0-760x476.webp",
+    "asset": "image-da610c1f862814624ccd51e81eb5141fa1de4bf0-760x476-webp",
+    "width": 760,
+    "height": 476
+  },
+  "/images/pages/georgia/kenwalker-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f3be562bb09832627a305a11e1ac12729e04be65-119x48.webp",
+    "asset": "image-f3be562bb09832627a305a11e1ac12729e04be65-119x48-webp",
+    "width": 119,
+    "height": 48
+  },
+  "/images/pages/georgia/kenwalker.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/3f6ac5f53af4ae31f0ca1a57e29b91835ac766f1-341x369.webp",
+    "asset": "image-3f6ac5f53af4ae31f0ca1a57e29b91835ac766f1-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/pelican.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2d7560f6c32014d5e2bf340aab20385884d82483-760x872.webp",
+    "asset": "image-2d7560f6c32014d5e2bf340aab20385884d82483-760x872-webp",
+    "width": 760,
+    "height": 872
+  },
+  "/images/pages/georgia/seu-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/4856d03e98fe6e6fa9705d55f053c3a7a1fa8722-84x48.webp",
+    "asset": "image-4856d03e98fe6e6fa9705d55f053c3a7a1fa8722-84x48-webp",
+    "width": 84,
+    "height": 48
+  },
+  "/images/pages/georgia/seu.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/aee82720f2b7acff18eb1a7d970d2cc7b11b1b8f-341x367.webp",
+    "asset": "image-aee82720f2b7acff18eb1a7d970d2cc7b11b1b8f-341x367-webp",
+    "width": 341,
+    "height": 367
+  },
+  "/images/pages/georgia/tsmu-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/561d5578db72cdfda61e0e7bee8256c785d377f1-58x48.webp",
+    "asset": "image-561d5578db72cdfda61e0e7bee8256c785d377f1-58x48-webp",
+    "width": 58,
+    "height": 48
+  },
+  "/images/pages/georgia/tsmu.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d2acdec336769e5267c8f325f19c114cbce8f845-341x369.webp",
+    "asset": "image-d2acdec336769e5267c8f325f19c114cbce8f845-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/tsu-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/412c2338fd81cd1c30166d9a8a5542747e5357cc-49x48.webp",
+    "asset": "image-412c2338fd81cd1c30166d9a8a5542747e5357cc-49x48-webp",
+    "width": 49,
+    "height": 48
+  },
+  "/images/pages/georgia/tsu.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/320b80c020dc33f1a0e26f525aef48ea9bcb5967-341x369.webp",
+    "asset": "image-320b80c020dc33f1a0e26f525aef48ea9bcb5967-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/georgia/ug-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/92a7abbf023d17cde850bd873ef885c488eb2c49-48x48.webp",
+    "asset": "image-92a7abbf023d17cde850bd873ef885c488eb2c49-48x48-webp",
+    "width": 48,
+    "height": 48
+  },
+  "/images/pages/georgia/ug.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a39de0bcfc5cd0d84b97172f1d136f5824847b52-341x369.webp",
+    "asset": "image-a39de0bcfc5cd0d84b97172f1d136f5824847b52-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/hero-about.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2877e0fe64b99a58eb09fce69a0fe2f8aa98897e-1920x794.webp",
+    "asset": "image-2877e0fe64b99a58eb09fce69a0fe2f8aa98897e-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-australia-migration.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e39c207f585c1dd1ae3f0a557b0e7bff4c7595c2-1920x794.webp",
+    "asset": "image-e39c207f585c1dd1ae3f0a557b0e7bff4c7595c2-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-australia-pr.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/842a642e6b584eb139eab28b9fc639a71a95dbb7-1920x794.webp",
+    "asset": "image-842a642e6b584eb139eab28b9fc639a71a95dbb7-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-australia-study-visa.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ba3087d7df42ce952d1fef7783608cd1bc3ee41f-1920x794.webp",
+    "asset": "image-ba3087d7df42ce952d1fef7783608cd1bc3ee41f-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-canada-express-entry.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/17c5477ce9263b77cdd19d0b3bc58d749f2a9cf1-1920x794.webp",
+    "asset": "image-17c5477ce9263b77cdd19d0b3bc58d749f2a9cf1-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-canada-migration.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/47446123f1cfcc304ca7cb3c49f606499d4f9cf9-1920x794.webp",
+    "asset": "image-47446123f1cfcc304ca7cb3c49f606499d4f9cf9-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-canada-pr.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/554054df474dde2968b04c3bfab785b5d042731a-1920x794.webp",
+    "asset": "image-554054df474dde2968b04c3bfab785b5d042731a-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-canada-study-visa.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ce1d97028c3ddb03cf5b7229c544043d981075b9-1920x794.webp",
+    "asset": "image-ce1d97028c3ddb03cf5b7229c544043d981075b9-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-new-zealand-migration.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/4662e0ebb13a3b8d6d8e92e04395b15562400842-1920x794.webp",
+    "asset": "image-4662e0ebb13a3b8d6d8e92e04395b15562400842-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/hero-new-zealand-pr.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6835d11558246f0540255de0dd429b0a4dd424cc-1920x794.webp",
+    "asset": "image-6835d11558246f0540255de0dd429b0a4dd424cc-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/nz-pr-benefits.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c08f879c08739269f0cfb4db367179b24ea4a793-760x520.webp",
+    "asset": "image-c08f879c08739269f0cfb4db367179b24ea4a793-760x520-webp",
+    "width": 760,
+    "height": 520
+  },
+  "/images/pages/nz-pr-migrate.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d9d0085532b8043ca8852317d7763a8779b7a51a-760x748.webp",
+    "asset": "image-d9d0085532b8043ca8852317d7763a8779b7a51a-760x748-webp",
+    "width": 760,
+    "height": 748
+  },
+  "/images/pages/other/germany-advantages.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/386a5c44704bd355ceee1d23e1aeee110f7bb432-760x676.webp",
+    "asset": "image-386a5c44704bd355ceee1d23e1aeee110f7bb432-760x676-webp",
+    "width": 760,
+    "height": 676
+  },
+  "/images/pages/other/germany-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f13166c5326b7e7aba68c405f2094be78d55a724-1920x794.webp",
+    "asset": "image-f13166c5326b7e7aba68c405f2094be78d55a724-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/other/germany-why.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/743773aa7ca3ca9f84fe22c71da34887a8ebbca5-760x886.webp",
+    "asset": "image-743773aa7ca3ca9f84fe22c71da34887a8ebbca5-760x886-webp",
+    "width": 760,
+    "height": 886
+  },
+  "/images/pages/other/uk-study-education.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c5737394b4263d541863aaba4ede922c3c2f03fe-760x558.webp",
+    "asset": "image-c5737394b4263d541863aaba4ede922c3c2f03fe-760x558-webp",
+    "width": 760,
+    "height": 558
+  },
+  "/images/pages/other/uk-study-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d773e38ec15d5246b4ff51581c8332191541a660-1920x794.webp",
+    "asset": "image-d773e38ec15d5246b4ff51581c8332191541a660-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/other/uk-study-more.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/8a58e3dc216b4dd857ab30b17414583eb19839eb-760x648.webp",
+    "asset": "image-8a58e3dc216b4dd857ab30b17414583eb19839eb-760x648-webp",
+    "width": 760,
+    "height": 648
+  },
+  "/images/pages/other/uk-study-visa.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/4b1bb1bd08c45358a2dd65da978480b247141451-760x852.webp",
+    "asset": "image-4b1bb1bd08c45358a2dd65da978480b247141451-760x852-webp",
+    "width": 760,
+    "height": 852
+  },
+  "/images/pages/portugal/d2-help.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c433496c145f88a1542947e69a6c29d563ac62ee-760x794.webp",
+    "asset": "image-c433496c145f88a1542947e69a6c29d563ac62ee-760x794-webp",
+    "width": 760,
+    "height": 794
+  },
+  "/images/pages/portugal/d2-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c8490b25757e5632ffe77e90f68d56236bce139a-1920x794.webp",
+    "asset": "image-c8490b25757e5632ffe77e90f68d56236bce139a-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/portugal/d2-intro.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/12c597ac208daad8d15e071226514dddfd7e3377-760x516.webp",
+    "asset": "image-12c597ac208daad8d15e071226514dddfd7e3377-760x516-webp",
+    "width": 760,
+    "height": 516
+  },
+  "/images/pages/portugal/d7-help.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/fab7891e723a2d18767397be4279c249661fdb96-760x794.webp",
+    "asset": "image-fab7891e723a2d18767397be4279c249661fdb96-760x794-webp",
+    "width": 760,
+    "height": 794
+  },
+  "/images/pages/portugal/d7-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/bc32df436b09ba09d5cffcec07db3f580da84b81-1920x794.webp",
+    "asset": "image-bc32df436b09ba09d5cffcec07db3f580da84b81-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/portugal/d7-income.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/8052049c2e6d8f5741a31f05029baef10e7e93b9-760x834.webp",
+    "asset": "image-8052049c2e6d8f5741a31f05029baef10e7e93b9-760x834-webp",
+    "width": 760,
+    "height": 834
+  },
+  "/images/pages/portugal/d7-intro.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ab85635837a95cb69fe24906bb32c427aaa1fb93-760x516.webp",
+    "asset": "image-ab85635837a95cb69fe24906bb32c427aaa1fb93-760x516-webp",
+    "width": 760,
+    "height": 516
+  },
+  "/images/pages/portugal/d8-help.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/355952cceb978ffbb1e30d81d5066dee7e07ef0b-760x914.webp",
+    "asset": "image-355952cceb978ffbb1e30d81d5066dee7e07ef0b-760x914-webp",
+    "width": 760,
+    "height": 914
+  },
+  "/images/pages/portugal/d8-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/db8052013b866277d04f52e5d5fedb7d22f3ab1e-1920x794.webp",
+    "asset": "image-db8052013b866277d04f52e5d5fedb7d22f3ab1e-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/portugal/d8-intro.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a3bd9214b22ded222eb5b6495bf51263a5599b46-760x516.webp",
+    "asset": "image-a3bd9214b22ded222eb5b6495bf51263a5599b46-760x516-webp",
+    "width": 760,
+    "height": 516
+  },
+  "/images/pages/portugal/golden-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f8afc3ce2721a6f3c5ad65e97891271e4703a14e-1920x794.webp",
+    "asset": "image-f8afc3ce2721a6f3c5ad65e97891271e4703a14e-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/portugal/golden-intro.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/68ce205c441399594993a8afa71c8633ff015cef-760x468.webp",
+    "asset": "image-68ce205c441399594993a8afa71c8633ff015cef-760x468-webp",
+    "width": 760,
+    "height": 468
+  },
+  "/images/pages/portugal/golden-support.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/af4b76c561f1c511f5c4d235145091c64d086653-760x1120.webp",
+    "asset": "image-af4b76c561f1c511f5c4d235145091c64d086653-760x1120-webp",
+    "width": 760,
+    "height": 1120
+  },
+  "/images/pages/portugal/migration-education.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/10ee19d6191c495d72185a5af8f64b6d311b819b-760x420.webp",
+    "asset": "image-10ee19d6191c495d72185a5af8f64b6d311b819b-760x420-webp",
+    "width": 760,
+    "height": 420
+  },
+  "/images/pages/portugal/migration-golden.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ac957b494ac4ae12a28da84af56bec5bc5ff7693-760x1012.webp",
+    "asset": "image-ac957b494ac4ae12a28da84af56bec5bc5ff7693-760x1012-webp",
+    "width": 760,
+    "height": 1012
+  },
+  "/images/pages/portugal/migration-healthcare.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9f51650b40e15a99da9448e3fe8b82dbc2051269-760x420.webp",
+    "asset": "image-9f51650b40e15a99da9448e3fe8b82dbc2051269-760x420-webp",
+    "width": 760,
+    "height": 420
+  },
+  "/images/pages/portugal/migration-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/064a6c0809659e0016309c3f182828a8cb2eb8ee-1920x794.webp",
+    "asset": "image-064a6c0809659e0016309c3f182828a8cb2eb8ee-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/portugal/migration-immigrants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9248785e6bac6229bd9d7129f9ea5014f89e25f6-760x696.webp",
+    "asset": "image-9248785e6bac6229bd9d7129f9ea5014f89e25f6-760x696-webp",
+    "width": 760,
+    "height": 696
+  },
+  "/images/pages/portugal/migration-jobs.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/669a16bb728d9efcded9e4be0188a29cff6d26f8-760x930.webp",
+    "asset": "image-669a16bb728d9efcded9e4be0188a29cff6d26f8-760x930-webp",
+    "width": 760,
+    "height": 930
+  },
+  "/images/pages/portugal/migration-uae.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/bd3067c8e44986ea61c5cc01080521eae9e13898-1560x542.webp",
+    "asset": "image-bd3067c8e44986ea61c5cc01080521eae9e13898-1560x542-webp",
+    "width": 1560,
+    "height": 542
+  },
+  "/images/pages/portugal/migration-visas.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9016e3390aaa94f906e3976e9033052a1737652b-760x806.webp",
+    "asset": "image-9016e3390aaa94f906e3976e9033052a1737652b-760x806-webp",
+    "width": 760,
+    "height": 806
+  },
+  "/images/pages/site/blogs-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a388a52ede61ced9f8160f13a43f382ae47dc661-1920x794.webp",
+    "asset": "image-a388a52ede61ced9f8160f13a43f382ae47dc661-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/site/contact-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9849a77f94960cc99544a7b9b5d6226ecb4574ca-1920x794.webp",
+    "asset": "image-9849a77f94960cc99544a7b9b5d6226ecb4574ca-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/site/contact-map.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f1cc809c1eed4ab23b56437ea803ff1009092f3c-1560x400.webp",
+    "asset": "image-f1cc809c1eed4ab23b56437ea803ff1009092f3c-1560x400-webp",
+    "width": 1560,
+    "height": 400
+  },
+  "/images/pages/site/gallery-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/8b739fefd694f50c527883a7a2b8266243ab40eb-1920x794.webp",
+    "asset": "image-8b739fefd694f50c527883a7a2b8266243ab40eb-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/site/stories-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2acf8ea9b217c6baa8e370e536cf32272d87961c-1920x794.webp",
+    "asset": "image-2acf8ea9b217c6baa8e370e536cf32272d87961c-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/unis/calgary-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c79cafc9e85340d0a03e85d8a2bc5a5c462d7505-65x49.webp",
+    "asset": "image-c79cafc9e85340d0a03e85d8a2bc5a5c462d7505-65x49-webp",
+    "width": 65,
+    "height": 49
+  },
+  "/images/pages/unis/calgary.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/07293282935aa75f23dbf3145795016587d18d34-341x369.webp",
+    "asset": "image-07293282935aa75f23dbf3145795016587d18d34-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/unis/mcgill-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/0397ba51d6c913391d91e39464e5b90d49b71bef-99x33.webp",
+    "asset": "image-0397ba51d6c913391d91e39464e5b90d49b71bef-99x33-webp",
+    "width": 99,
+    "height": 33
+  },
+  "/images/pages/unis/mcgill.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/0513ba79c87d1f1bd128f0aa1a9bdaef30a821ad-341x369.webp",
+    "asset": "image-0513ba79c87d1f1bd128f0aa1a9bdaef30a821ad-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/unis/mcmaster-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/0e323159ff3222443f658a5af3bfbbeabc941559-81x43.webp",
+    "asset": "image-0e323159ff3222443f658a5af3bfbbeabc941559-81x43-webp",
+    "width": 81,
+    "height": 43
+  },
+  "/images/pages/unis/mcmaster.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6c6954b1e9ff3fafafc5b7650d929770607437a1-341x369.webp",
+    "asset": "image-6c6954b1e9ff3fafafc5b7650d929770607437a1-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/unis/ottawa-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/7bb01f190c98c13064afe6bb983d2c6c15e93656-115x29.webp",
+    "asset": "image-7bb01f190c98c13064afe6bb983d2c6c15e93656-115x29-webp",
+    "width": 115,
+    "height": 29
+  },
+  "/images/pages/unis/ottawa.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ea02ae98df55ec716109c1d0ac17544982d20564-341x367.webp",
+    "asset": "image-ea02ae98df55ec716109c1d0ac17544982d20564-341x367-webp",
+    "width": 341,
+    "height": 367
+  },
+  "/images/pages/unis/toronto-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c96dc8999b9659d8e834f951f654d162fb257309-125x46.webp",
+    "asset": "image-c96dc8999b9659d8e834f951f654d162fb257309-125x46-webp",
+    "width": 125,
+    "height": 46
+  },
+  "/images/pages/unis/toronto.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/4756d47a7633e43f7cf74db0dccae6cc54cd33c0-341x369.webp",
+    "asset": "image-4756d47a7633e43f7cf74db0dccae6cc54cd33c0-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/unis/ubc-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/905937f400ffd49e2fdecee246e0aba4bef7e5da-48x48.webp",
+    "asset": "image-905937f400ffd49e2fdecee246e0aba4bef7e5da-48x48-webp",
+    "width": 48,
+    "height": 48
+  },
+  "/images/pages/unis/ubc.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c7d6baf8a9ec88d91204d60d85a56bc9f8925c4b-341x367.webp",
+    "asset": "image-c7d6baf8a9ec88d91204d60d85a56bc9f8925c4b-341x367-webp",
+    "width": 341,
+    "height": 367
+  },
+  "/images/pages/unis/waterloo-logo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/255598ce897b64a5549356531b617a1613d22a29-55x55.webp",
+    "asset": "image-255598ce897b64a5549356531b617a1613d22a29-55x55-webp",
+    "width": 55,
+    "height": 55
+  },
+  "/images/pages/unis/waterloo.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9789dd892e5cebc637d86532217edd9c1d96efbe-341x369.webp",
+    "asset": "image-9789dd892e5cebc637d86532217edd9c1d96efbe-341x369-webp",
+    "width": 341,
+    "height": 369
+  },
+  "/images/pages/visit/asia-middle-east-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/1e16056d7f0b323f0f5e8ceb3804d2a4be83a768-504x373.webp",
+    "asset": "image-1e16056d7f0b323f0f5e8ceb3804d2a4be83a768-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/b7c1b88eaee0c7fe08743b0f3f4fcd301a116234-504x373.webp",
+    "asset": "image-b7c1b88eaee0c7fe08743b0f3f4fcd301a116234-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/79d4459837f45cdea06444578753480f9f979687-504x373.webp",
+    "asset": "image-79d4459837f45cdea06444578753480f9f979687-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/3aedaf2b2c81bca8dcb642fab5fedd4366aa9acf-504x373.webp",
+    "asset": "image-3aedaf2b2c81bca8dcb642fab5fedd4366aa9acf-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/99f5f28b72289ce3f109ebaadeacffeedf4dd8e9-504x373.webp",
+    "asset": "image-99f5f28b72289ce3f109ebaadeacffeedf4dd8e9-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-6.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/65d710a70db6014dd4b417395f4a52daa2f3cef4-504x373.webp",
+    "asset": "image-65d710a70db6014dd4b417395f4a52daa2f3cef4-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-7.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9e5c402143f2dd3912e46ee629a1f575a10f8035-504x373.webp",
+    "asset": "image-9e5c402143f2dd3912e46ee629a1f575a10f8035-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-8.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/133a2f32a5f411957c20f2022d03700f6bd850a8-504x373.webp",
+    "asset": "image-133a2f32a5f411957c20f2022d03700f6bd850a8-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/asia-middle-east-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/76ac3f00647408d81e8aa772ad9d0fe99654f254-760x580.webp",
+    "asset": "image-76ac3f00647408d81e8aa772ad9d0fe99654f254-760x580-webp",
+    "width": 760,
+    "height": 580
+  },
+  "/images/pages/visit/asia-middle-east-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/fe5de978d81430ce42d5bec0c617096416aeb51e-1920x794.webp",
+    "asset": "image-fe5de978d81430ce42d5bec0c617096416aeb51e-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/asia-middle-east-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c9e31f916889c51d651fa6e4c9b24e03a2988344-760x956.webp",
+    "asset": "image-c9e31f916889c51d651fa6e4c9b24e03a2988344-760x956-webp",
+    "width": 760,
+    "height": 956
+  },
+  "/images/pages/visit/australia-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f716c87c128c743179f9964017df56dddfaf1a90-1920x1280.webp",
+    "asset": "image-f716c87c128c743179f9964017df56dddfaf1a90-1920x1280-webp",
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/pages/visit/australia-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9532e5ae953649f6c70edf6f099866b2f33ce5c3-1920x1170.webp",
+    "asset": "image-9532e5ae953649f6c70edf6f099866b2f33ce5c3-1920x1170-webp",
+    "width": 1920,
+    "height": 1170
+  },
+  "/images/pages/visit/australia-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/7530c057073359379f03f5835ca9b63d1a635cc3-1920x1080.webp",
+    "asset": "image-7530c057073359379f03f5835ca9b63d1a635cc3-1920x1080-webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "/images/pages/visit/australia-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ec89b7401d495336b7c128d5ac55ec498980c01b-1920x1280.webp",
+    "asset": "image-ec89b7401d495336b7c128d5ac55ec498980c01b-1920x1280-webp",
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/pages/visit/australia-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6c799d6c33ce96234778f8642e60db4c8616da85-1920x1280.webp",
+    "asset": "image-6c799d6c33ce96234778f8642e60db4c8616da85-1920x1280-webp",
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/pages/visit/australia-6.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/4a6bb4b8b2aa69d90210aa3b74d8c861c9415524-1920x1280.webp",
+    "asset": "image-4a6bb4b8b2aa69d90210aa3b74d8c861c9415524-1920x1280-webp",
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/pages/visit/australia-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d603e9f4cf8647d3604e4ff09cffcfd7a18ff79b-760x660.webp",
+    "asset": "image-d603e9f4cf8647d3604e4ff09cffcfd7a18ff79b-760x660-webp",
+    "width": 760,
+    "height": 660
+  },
+  "/images/pages/visit/australia-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a449b0e607225dae21a0f41d4d66ace120d2d430-1920x794.webp",
+    "asset": "image-a449b0e607225dae21a0f41d4d66ace120d2d430-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/australia-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/13c0e43f60639f3a75e4257e42b2ea95f1eb00a6-760x1118.webp",
+    "asset": "image-13c0e43f60639f3a75e4257e42b2ea95f1eb00a6-760x1118-webp",
+    "width": 760,
+    "height": 1118
+  },
+  "/images/pages/visit/canada-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/795c843f5d744cfc828b574efc2b180d07870813-1280x848.webp",
+    "asset": "image-795c843f5d744cfc828b574efc2b180d07870813-1280x848-webp",
+    "width": 1280,
+    "height": 848
+  },
+  "/images/pages/visit/canada-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f7710d5e36cdf7bf53b5d6b489db51b07702246c-1280x856.webp",
+    "asset": "image-f7710d5e36cdf7bf53b5d6b489db51b07702246c-1280x856-webp",
+    "width": 1280,
+    "height": 856
+  },
+  "/images/pages/visit/canada-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e89adbbc9db3b786b93374f71911476523a69057-1280x960.webp",
+    "asset": "image-e89adbbc9db3b786b93374f71911476523a69057-1280x960-webp",
+    "width": 1280,
+    "height": 960
+  },
+  "/images/pages/visit/canada-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/35f78dab60685de68ea4e78f97a5751a658afe1e-1280x852.webp",
+    "asset": "image-35f78dab60685de68ea4e78f97a5751a658afe1e-1280x852-webp",
+    "width": 1280,
+    "height": 852
+  },
+  "/images/pages/visit/canada-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/385de6e16e0ec4e23cbd651e0ec3822f055ea07e-1280x854.webp",
+    "asset": "image-385de6e16e0ec4e23cbd651e0ec3822f055ea07e-1280x854-webp",
+    "width": 1280,
+    "height": 854
+  },
+  "/images/pages/visit/canada-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f49c5eaffef70f765d8759cef67925699afacae8-760x596.webp",
+    "asset": "image-f49c5eaffef70f765d8759cef67925699afacae8-760x596-webp",
+    "width": 760,
+    "height": 596
+  },
+  "/images/pages/visit/canada-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e21c63eadc8a952e7995bbbecefab0d17e634745-1920x794.webp",
+    "asset": "image-e21c63eadc8a952e7995bbbecefab0d17e634745-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/canada-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d27e911801346a6fec385bc1fb4e693dc8db7b89-760x1380.webp",
+    "asset": "image-d27e911801346a6fec385bc1fb4e693dc8db7b89-760x1380-webp",
+    "width": 760,
+    "height": 1380
+  },
+  "/images/pages/visit/ireland-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ab2d05a924b1a53c879d732a6115ef8561133e6a-504x373.webp",
+    "asset": "image-ab2d05a924b1a53c879d732a6115ef8561133e6a-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/ireland-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/82fefd291ff3fcad33983aa5e670a13ba8689aae-504x373.webp",
+    "asset": "image-82fefd291ff3fcad33983aa5e670a13ba8689aae-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/ireland-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a87f5df22319e4c14b2c824ffc39cd10db502631-504x373.webp",
+    "asset": "image-a87f5df22319e4c14b2c824ffc39cd10db502631-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/ireland-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/8a3580cff9e785a548ce0a6f2dbb17b55ec2debe-504x373.webp",
+    "asset": "image-8a3580cff9e785a548ce0a6f2dbb17b55ec2debe-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/ireland-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e9a8e1f70e755f5da63016366d8c48f13ab7c294-504x373.webp",
+    "asset": "image-e9a8e1f70e755f5da63016366d8c48f13ab7c294-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/ireland-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/026be5a4350171bdc9bcb76ae0a5c6b3a0b96a67-760x570.webp",
+    "asset": "image-026be5a4350171bdc9bcb76ae0a5c6b3a0b96a67-760x570-webp",
+    "width": 760,
+    "height": 570
+  },
+  "/images/pages/visit/ireland-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/cb470963e6ff9e60131d5fea8a195e25dde15c8a-1920x794.webp",
+    "asset": "image-cb470963e6ff9e60131d5fea8a195e25dde15c8a-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/ireland-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/119ccd555f4f85323a6ec8f49ff2802954212df5-760x1076.webp",
+    "asset": "image-119ccd555f4f85323a6ec8f49ff2802954212df5-760x1076-webp",
+    "width": 760,
+    "height": 1076
+  },
+  "/images/pages/visit/new-zealand-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/cdb3a5dad9b8adff28582ff85b657c7e4d9f3b54-1280x854.webp",
+    "asset": "image-cdb3a5dad9b8adff28582ff85b657c7e4d9f3b54-1280x854-webp",
+    "width": 1280,
+    "height": 854
+  },
+  "/images/pages/visit/new-zealand-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/549421eccd60f7b895a12fed99d3e776cf6a40e0-2000x1400.webp",
+    "asset": "image-549421eccd60f7b895a12fed99d3e776cf6a40e0-2000x1400-webp",
+    "width": 2000,
+    "height": 1400
+  },
+  "/images/pages/visit/new-zealand-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/317fb9cb7dc1fddd483bb6a1d100fc9b89b17531-1280x853.webp",
+    "asset": "image-317fb9cb7dc1fddd483bb6a1d100fc9b89b17531-1280x853-webp",
+    "width": 1280,
+    "height": 853
+  },
+  "/images/pages/visit/new-zealand-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e08efa1cc0614ac98a2408c8075ad7055e61078f-1280x853.webp",
+    "asset": "image-e08efa1cc0614ac98a2408c8075ad7055e61078f-1280x853-webp",
+    "width": 1280,
+    "height": 853
+  },
+  "/images/pages/visit/new-zealand-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ff76a555585d1209b75cece0d8ba76e5499f6946-1280x854.webp",
+    "asset": "image-ff76a555585d1209b75cece0d8ba76e5499f6946-1280x854-webp",
+    "width": 1280,
+    "height": 854
+  },
+  "/images/pages/visit/new-zealand-6.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/bccb7ad6ffd896a46017654a956f755480140a48-1280x854.webp",
+    "asset": "image-bccb7ad6ffd896a46017654a956f755480140a48-1280x854-webp",
+    "width": 1280,
+    "height": 854
+  },
+  "/images/pages/visit/new-zealand-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/9ab21b91fe955c8d1ca6f4db63f3416e54c29354-760x610.webp",
+    "asset": "image-9ab21b91fe955c8d1ca6f4db63f3416e54c29354-760x610-webp",
+    "width": 760,
+    "height": 610
+  },
+  "/images/pages/visit/new-zealand-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2fa8b27a220ac505d674424e00b3ee24aa808626-1920x794.webp",
+    "asset": "image-2fa8b27a220ac505d674424e00b3ee24aa808626-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/new-zealand-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/bef4e48f7e3b806099215520fcce2cecfd1d227f-760x1016.webp",
+    "asset": "image-bef4e48f7e3b806099215520fcce2cecfd1d227f-760x1016-webp",
+    "width": 760,
+    "height": 1016
+  },
+  "/images/pages/visit/schengen-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/8d9abdf0788e6894d5638e6b8f10315debfd81ba-504x373.webp",
+    "asset": "image-8d9abdf0788e6894d5638e6b8f10315debfd81ba-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e825ca2130abb3de810516cf372eebcbe2304404-504x373.webp",
+    "asset": "image-e825ca2130abb3de810516cf372eebcbe2304404-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/586ccad2dd80663a608548784581832023476000-504x373.webp",
+    "asset": "image-586ccad2dd80663a608548784581832023476000-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e92dd086ab99d4921e7159685ab22a40171c4ee0-504x373.webp",
+    "asset": "image-e92dd086ab99d4921e7159685ab22a40171c4ee0-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/55ed4156623c999338878b05e4ed99e945d4990e-504x373.webp",
+    "asset": "image-55ed4156623c999338878b05e4ed99e945d4990e-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-6.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/b97f64d119877db5396c4193dab03af4ec943408-504x373.webp",
+    "asset": "image-b97f64d119877db5396c4193dab03af4ec943408-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-7.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/89032d92c100a810078c8fac94f592738173ad34-504x373.webp",
+    "asset": "image-89032d92c100a810078c8fac94f592738173ad34-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-8.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/01739dafbc565f0377d1ebbd9e1cc66914f56533-504x373.webp",
+    "asset": "image-01739dafbc565f0377d1ebbd9e1cc66914f56533-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-9.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f63e359c247a5e69edc9a4fa7553d5815f3a2903-504x373.webp",
+    "asset": "image-f63e359c247a5e69edc9a4fa7553d5815f3a2903-504x373-webp",
+    "width": 504,
+    "height": 373
+  },
+  "/images/pages/visit/schengen-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2ab999a23feba8c469dc3e5103f5c59be1ef16bb-760x630.webp",
+    "asset": "image-2ab999a23feba8c469dc3e5103f5c59be1ef16bb-760x630-webp",
+    "width": 760,
+    "height": 630
+  },
+  "/images/pages/visit/schengen-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/52a4a8b26e0ecc62c43eec1b69f4adc0f56d176a-1920x794.webp",
+    "asset": "image-52a4a8b26e0ecc62c43eec1b69f4adc0f56d176a-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/schengen-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f48628d119a8c7fac0622e6b5369786d48bb7104-760x1328.webp",
+    "asset": "image-f48628d119a8c7fac0622e6b5369786d48bb7104-760x1328-webp",
+    "width": 760,
+    "height": 1328
+  },
+  "/images/pages/visit/uk-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/46310144eebabd9ab200cef07a37b02676f26120-2000x1333.webp",
+    "asset": "image-46310144eebabd9ab200cef07a37b02676f26120-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/pages/visit/uk-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/46264277807a5a0dc9423d3ad9ebd46a4b9512d8-2000x1125.webp",
+    "asset": "image-46264277807a5a0dc9423d3ad9ebd46a4b9512d8-2000x1125-webp",
+    "width": 2000,
+    "height": 1125
+  },
+  "/images/pages/visit/uk-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/4215f300ebf7f8c76ba818af83e1f86954a2223a-2000x1333.webp",
+    "asset": "image-4215f300ebf7f8c76ba818af83e1f86954a2223a-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/pages/visit/uk-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/85ea1e1b08890883ff3ed60425f2719e98cc2285-2000x1116.webp",
+    "asset": "image-85ea1e1b08890883ff3ed60425f2719e98cc2285-2000x1116-webp",
+    "width": 2000,
+    "height": 1116
+  },
+  "/images/pages/visit/uk-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d10b5ac7773f661c3eb588267d4559b90eeb6f45-2000x1333.webp",
+    "asset": "image-d10b5ac7773f661c3eb588267d4559b90eeb6f45-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/pages/visit/uk-6.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c7b698abe53ee14b01847c2cd7af92b74aa5377a-2000x1376.webp",
+    "asset": "image-c7b698abe53ee14b01847c2cd7af92b74aa5377a-2000x1376-webp",
+    "width": 2000,
+    "height": 1376
+  },
+  "/images/pages/visit/uk-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6f9139a162f429a6fda5d719ec18f49aed00532c-760x508.webp",
+    "asset": "image-6f9139a162f429a6fda5d719ec18f49aed00532c-760x508-webp",
+    "width": 760,
+    "height": 508
+  },
+  "/images/pages/visit/uk-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6dfdb578b9dcbc998cc712c48e89028def07b556-1920x794.webp",
+    "asset": "image-6dfdb578b9dcbc998cc712c48e89028def07b556-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/uk-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6b593c3dd34fd4a73140644011658fef3129a550-760x1108.webp",
+    "asset": "image-6b593c3dd34fd4a73140644011658fef3129a550-760x1108-webp",
+    "width": 760,
+    "height": 1108
+  },
+  "/images/pages/visit/usa-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/e4567804cd18eda7647a571f773ef236f796d96a-2000x1339.webp",
+    "asset": "image-e4567804cd18eda7647a571f773ef236f796d96a-2000x1339-webp",
+    "width": 2000,
+    "height": 1339
+  },
+  "/images/pages/visit/usa-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/f8e0e9c7ab0c4e0bf264ec70623abf5039159edb-2000x1123.webp",
+    "asset": "image-f8e0e9c7ab0c4e0bf264ec70623abf5039159edb-2000x1123-webp",
+    "width": 2000,
+    "height": 1123
+  },
+  "/images/pages/visit/usa-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d686981feec883fb7c6ddef2fe87c1a756bca354-2000x1331.webp",
+    "asset": "image-d686981feec883fb7c6ddef2fe87c1a756bca354-2000x1331-webp",
+    "width": 2000,
+    "height": 1331
+  },
+  "/images/pages/visit/usa-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/799c7d976394aefc39604cb10a32323b6e8df150-2000x1333.webp",
+    "asset": "image-799c7d976394aefc39604cb10a32323b6e8df150-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/pages/visit/usa-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ea16d333b264477c4c16b2a0698b8ae3b768d403-2000x1333.webp",
+    "asset": "image-ea16d333b264477c4c16b2a0698b8ae3b768d403-2000x1333-webp",
+    "width": 2000,
+    "height": 1333
+  },
+  "/images/pages/visit/usa-6.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c7b698abe53ee14b01847c2cd7af92b74aa5377a-2000x1376.webp",
+    "asset": "image-c7b698abe53ee14b01847c2cd7af92b74aa5377a-2000x1376-webp",
+    "width": 2000,
+    "height": 1376
+  },
+  "/images/pages/visit/usa-consultants.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d94ef42d6c62775322136ee3157807f976a7affa-760x508.webp",
+    "asset": "image-d94ef42d6c62775322136ee3157807f976a7affa-760x508-webp",
+    "width": 760,
+    "height": 508
+  },
+  "/images/pages/visit/usa-hero.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/421f5cb01e441240cffedd2c5a141638656567aa-1920x794.webp",
+    "asset": "image-421f5cb01e441240cffedd2c5a141638656567aa-1920x794-webp",
+    "width": 1920,
+    "height": 794
+  },
+  "/images/pages/visit/usa-process.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/13b8cdb5e490def6cb44ade439e0ccbc0c3a7e60-760x986.webp",
+    "asset": "image-13b8cdb5e490def6cb44ade439e0ccbc0c3a7e60-760x986-webp",
+    "width": 760,
+    "height": 986
+  },
+  "/images/service-express-entry.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/d807c9f4965fe8c526346021a3deefd4223b41c4-1670x942.webp",
+    "asset": "image-d807c9f4965fe8c526346021a3deefd4223b41c4-1670x942-webp",
+    "width": 1670,
+    "height": 942
+  },
+  "/images/service-investment.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/927f36dfe5d58af8cbac1bed5cdca2b2d456896f-1650x953.webp",
+    "asset": "image-927f36dfe5d58af8cbac1bed5cdca2b2d456896f-1650x953-webp",
+    "width": 1650,
+    "height": 953
+  },
+  "/images/service-pnp.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/a7169b0b8b924e3a0846812f076f2bb90785c992-1672x941.webp",
+    "asset": "image-a7169b0b8b924e3a0846812f076f2bb90785c992-1672x941-webp",
+    "width": 1672,
+    "height": 941
+  },
+  "/images/service-visitor.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/499c70f9ef65850bd7b3574d43a66e6ee9f4d250-1671x941.webp",
+    "asset": "image-499c70f9ef65850bd7b3574d43a66e6ee9f4d250-1671x941-webp",
+    "width": 1671,
+    "height": 941
+  },
+  "/images/step-1.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c6feb9e33388f8fd5473c33a23ab33c107686c2a-1488x1057.webp",
+    "asset": "image-c6feb9e33388f8fd5473c33a23ab33c107686c2a-1488x1057-webp",
+    "width": 1488,
+    "height": 1057
+  },
+  "/images/step-2.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/12eb59d25639e4d2396c02d99d929d9782899a26-1488x1057.webp",
+    "asset": "image-12eb59d25639e4d2396c02d99d929d9782899a26-1488x1057-webp",
+    "width": 1488,
+    "height": 1057
+  },
+  "/images/step-3.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/c284509f5234d9015ce39adeb44887f7c0745415-1488x1057.webp",
+    "asset": "image-c284509f5234d9015ce39adeb44887f7c0745415-1488x1057-webp",
+    "width": 1488,
+    "height": 1057
+  },
+  "/images/step-4.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/6f9f7c2b087c6f596f7efa74a5315b404f464bc0-1488x1057.webp",
+    "asset": "image-6f9f7c2b087c6f596f7efa74a5315b404f464bc0-1488x1057-webp",
+    "width": 1488,
+    "height": 1057
+  },
+  "/images/step-5.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/63f0b245dfc4f7bfe786d50f1d6aa2dfc1e47589-1487x1058.webp",
+    "asset": "image-63f0b245dfc4f7bfe786d50f1d6aa2dfc1e47589-1487x1058-webp",
+    "width": 1487,
+    "height": 1058
+  },
+  "/images/testimonial-thumb.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941.webp",
+    "asset": "image-2ab5a014b087c7c582fed63149c5212cdadb5bc7-1672x941-webp",
+    "width": 1672,
+    "height": 941
+  },
+  "/images/video-guide.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/ff374877a6ef10aa5441b751f82d4eeba6b2dc68-1024x683.webp",
+    "asset": "image-ff374877a6ef10aa5441b751f82d4eeba6b2dc68-1024x683-webp",
+    "width": 1024,
+    "height": 683
+  },
+  "/images/why-choose.png": {
+    "url": "https://cdn.sanity.io/images/3zrn3yuo/production/0b1d18d896756628b916a35e539a6e794165badc-1086x1448.webp",
+    "asset": "image-0b1d18d896756628b916a35e539a6e794165badc-1086x1448-webp",
+    "width": 1086,
+    "height": 1448
+  }
+}

@@ -1,0 +1,4 @@
+.media-cache
+studio/node_modules
+studio/dist
+.next-cms
