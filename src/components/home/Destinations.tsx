@@ -21,7 +21,7 @@ export default function Destinations() {
           {items.map((d) => (
             <Link key={d.name} href={d.href} className="group relative flex flex-col gap-[1.5625rem]">
               {/* 372×373 in Figma */}
-              <div className="relative aspect-[372/373] w-full overflow-hidden rounded-sm">
+              <div className="card-hover relative aspect-[372/373] w-full overflow-hidden rounded-sm">
                 <Image
                   src={d.image}
                   alt={d.name}

@@ -164,6 +164,19 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Shared hover elevation for every card in the site. */
+.card-hover {
+  transition: box-shadow 300ms ease, transform 300ms ease, background-color 300ms ease;
+}
+.card-hover:focus-within {
+  box-shadow: 0 12px 28px rgba(20, 20, 20, 0.14);
+}
+@media (hover: hover) {
+  .card-hover:hover {
+    box-shadow: 0 12px 28px rgba(20, 20, 20, 0.14);
+  }
+}
+
 .no-scrollbar {
   scrollbar-width: none;
 }

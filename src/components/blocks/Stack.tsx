@@ -52,7 +52,7 @@ function El({ e }: { e: StackEl }) {
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {e.items.map((c, i) => (
             <div key={i} className="flex flex-col gap-[1.5625rem]">
-              <div className="relative aspect-[504/373] w-full overflow-hidden rounded-sm">
+              <div className="card-hover relative aspect-[504/373] w-full overflow-hidden rounded-sm">
                 <Image src={c.image} alt={c.title} fill sizes="(min-width:1024px) 30vw, (min-width:640px) 50vw, 100vw" className="object-cover" />
               </div>
               <div className="flex flex-col gap-[1.3125rem]">
@@ -81,7 +81,7 @@ function El({ e }: { e: StackEl }) {
       return (
         <div className={`grid grid-cols-1 gap-6 ${cols}`}>
           {e.items.map((c, i) => (
-            <div key={i} className={`flex flex-col overflow-hidden rounded-sm ${cardBg[e.variant ?? "cream"]}`}>
+            <div key={i} className={`card-hover flex flex-col overflow-hidden rounded-sm ${cardBg[e.variant ?? "cream"]}`}>
               {c.image && (
                 <div
                   className={`relative w-full shrink-0 ${e.imageAspect ? "" : "h-[13.4375rem]"}`}
@@ -110,7 +110,7 @@ function El({ e }: { e: StackEl }) {
           style={{ "--n": e.items.length } as React.CSSProperties}
         >
           {e.items.map((s) => (
-            <div key={s.label} className="flex flex-col gap-7 bg-[#fdf5e9] p-6">
+            <div key={s.label} className="card-hover flex flex-col gap-7 rounded-sm bg-[#fdf5e9] p-6">
               <p className="t-h2 font-semibold text-orange-300">{s.label}</p>
               <p className="t-body2 text-dark-300">
                 <Rich text={s.text} />
@@ -123,7 +123,7 @@ function El({ e }: { e: StackEl }) {
       return (
         <div className="flex flex-col gap-4">
           {e.items.map((nodes, i) => (
-            <div key={i} className="rounded-sm bg-light-50 p-5 md:p-7">
+            <div key={i} className="card-hover rounded-sm bg-light-50 p-5 md:p-7">
               <RichContent nodes={nodes} gap={e.gap ?? 24} />
             </div>
           ))}
@@ -135,7 +135,7 @@ function El({ e }: { e: StackEl }) {
       return (
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
           {e.items.map((u, i) => (
-            <div key={i} className="flex flex-col gap-5 bg-light-50 p-5">
+            <div key={i} className="card-hover flex flex-col gap-5 rounded-sm bg-light-50 p-5">
               <div className="relative aspect-[341/368] w-full overflow-hidden">
                 <Image src={u.image} alt={u.name} fill sizes="(min-width:1024px) 20vw, (min-width:640px) 50vw, 100vw" className="object-cover" />
               </div>

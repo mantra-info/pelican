@@ -1,6 +1,5 @@
 import { getPageContent } from "@/lib/cms/content";
 import PageSections from "@/components/cms/PageSections";
-import CmsTestimonials from "@/components/cms/Testimonials";
 import type { Metadata } from "next";
 import SiteHero from "@/components/site/SiteHero";
 import StoryTabs from "@/components/site/StoryTabs";
@@ -29,7 +28,12 @@ export default async function SuccessStoriesPage() {
             and the relationships we strive to maintain. Each positive experience inspires us to keep raising our standards and delivering better outcomes.
           </p>
         </div>
-        {content ? content.testimonialsEnabled && <CmsTestimonials title={content.testimonialsTitle} items={content.testimonials ?? []} /> : <StoryTabs />}
+        {!content ? <StoryTabs /> : content.testimonialsEnabled && (
+          <StoryTabs
+            videos={(content.testimonials ?? []).flatMap((item) => (item.kind === "video" && item.video ? [{ ...item.video, name: item.name }] : []))}
+            reviews={(content.testimonials ?? []).flatMap((item) => (item.kind === "text" ? [{ name: item.name, quote: item.quote ?? "", rating: item.rating ?? "" }] : []))}
+          />
+        )}
       </Section>
       <PageSections content={content} testimonials={false} />
       <ContactSection />
