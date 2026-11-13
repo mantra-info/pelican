@@ -19,7 +19,7 @@ export default function VisaApprovals({ approvals = defaultApprovals }: { approv
         <div className="flex w-full flex-col items-center gap-7">
           <div className="grid w-full grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5 lg:gap-x-[3.1875rem]">
             {approvals.map((a, i) => (
-              <div key={i} className="relative aspect-[271/336] w-full overflow-hidden rounded-sm">
+              <div key={i} className="card-hover relative aspect-[271/336] w-full overflow-hidden rounded-sm">
                 <Image src={a.image} alt={a.alt} fill sizes="(min-width:1024px) 20vw, (min-width:640px) 33vw, 50vw" className={a.id ? "object-contain" : "object-cover"} />
               </div>
             ))}

@@ -15,7 +15,7 @@ export default function BlogCard({ post, variant = "grid" }: { post: BlogPost; v
   const sizes = { grid: "(min-width:1024px) 25vw, (min-width:640px) 50vw, 100vw", featured: "(min-width:1024px) 55vw, 100vw", side: "(min-width:1024px) 30vw, 100vw" }[variant];
   return (
     <article className="flex flex-col gap-[1.5625rem]">
-      <Link href={href} className={`group relative block w-full overflow-hidden rounded-sm ${aspect}`}>
+      <Link href={href} className={`card-hover group relative block w-full overflow-hidden rounded-sm ${aspect}`}>
         <Image src={post.image} alt={post.imageAlt ?? post.title} fill sizes={sizes} className="object-cover transition-transform duration-500 group-hover:scale-105" />
       </Link>
       <div className={`flex flex-1 flex-col justify-between gap-6 ${variant === "grid" ? "sm:min-h-[9.875rem]" : ""}`}>

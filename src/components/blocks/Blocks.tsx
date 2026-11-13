@@ -76,7 +76,7 @@ export function NumberedCards({
       {title && <SectionHeading title={title} description={description} descTone={descTone} />}
       <div className={`grid grid-cols-1 gap-6 ${grid}`}>
         {cards.map((c, i) => (
-          <div key={i} className="flex flex-col items-start justify-between gap-8 rounded-md border-[0.5px] border-grey-50 bg-[#fafafa] p-5">
+          <div key={i} className="card-hover flex flex-col items-start justify-between gap-8 rounded-md border-[0.5px] border-grey-50 bg-[#fafafa] p-5">
             <div className="flex w-full flex-col gap-5">
               {numbered && (
                 <span className="t-body3 flex size-8 items-center justify-center rounded-sm bg-orange-300 font-medium text-light-50">
@@ -233,7 +233,7 @@ export function ImageCards({
       {title && <SectionHeading title={title} description={description} />}
       <div className={`grid grid-cols-1 gap-6 sm:grid-cols-2 ${cols === 4 ? "lg:grid-cols-4" : "lg:grid-cols-3"}`}>
         {cards.map((c) => (
-          <article key={c.title} className="flex flex-col overflow-hidden rounded-sm bg-light-50">
+          <article key={c.title} className="card-hover flex flex-col overflow-hidden rounded-sm bg-light-50">
             <div className="relative h-[13.4375rem] w-full">
               <Image src={c.image} alt="" fill sizes="(min-width:1024px) 30vw, (min-width:640px) 50vw, 100vw" className="object-cover" />
             </div>

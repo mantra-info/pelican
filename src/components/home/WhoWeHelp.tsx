@@ -74,7 +74,7 @@ export default function WhoWeHelp() {
         />
         <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
           {cards.map((c) => (
-            <div key={c.title} className="relative aspect-[504/283] overflow-hidden rounded-sm">
+            <div key={c.title} className="card-hover relative aspect-[504/283] overflow-hidden rounded-sm">
               <div className="absolute inset-0" style={{ backgroundImage: gradients[c.tone] }} aria-hidden />
               <div
                 className="absolute inset-0 opacity-[0.11]"

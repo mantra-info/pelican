@@ -33,7 +33,7 @@ export default async function VisaGalleryPage() {
         {!approvals.length && <p className="t-body1 text-dark-100">New visa approval highlights will appear here soon.</p>}
         <div className="grid grid-cols-2 gap-x-4 gap-y-7 sm:grid-cols-3 lg:grid-cols-5 lg:gap-x-[3.1875rem]">
           {approvals.map((a, i) => (
-            <div key={i} className="relative aspect-[271/336] w-full overflow-hidden rounded-sm">
+            <div key={i} className="card-hover relative aspect-[271/336] w-full overflow-hidden rounded-sm">
               <Image src={a.image} alt={a.alt} fill sizes="(min-width:1024px) 15vw, (min-width:640px) 33vw, 50vw" className={items ? "object-contain" : "object-cover"} />
             </div>
           ))}
