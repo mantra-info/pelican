@@ -812,10 +812,11 @@ export const portugalGolden: PageData = {
   metaDescription: "Secure your Golden Residence Permit and enjoy oceanfront living with visa-free travel across Europe.",
   hero: {
     image: img("golden-hero"),
-    breadcrumb: [{ label: "Portugal", href: "/portugal-migration" }, { label: "Golden Visa Portugal" }],
+    breadcrumb: [{ label: "Portugal", href: "/portugal-migration" }, { label: "Golden Visa" }],
     title: "Golden Visa\nPortugal",
     tops: serviceTops,
     text: "**Secure your Golden Residence Permit and enjoy oceanfront living with visa-free travel across Europe!**",
+    form: { title: "Let Us Help You Migrate to Portugal.", destination: "Portugal" },
   },
   blocks: [
     {
